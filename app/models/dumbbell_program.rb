@@ -1,0 +1,2 @@
+class DumbbellProgram < Program
+end

@@ -1,0 +1,2 @@
+class BodyProgram < Program
+end

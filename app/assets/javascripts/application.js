@@ -1,0 +1,16 @@
+//= require rails-ujs
+//= require activestorage
+//= require turbolinks
+//= require jquery
+//= require anime.min
+//= require imagesloaded.pkgd.min
+//= require easing
+//= require bootstrap-sprockets
+//= require jquery.countup
+//= require jquery.waypoints.min
+//= require lightbox-plus-jquery.min
+//= require move-top
+//= require uncover
+//= require bootstrap-sprockets
+//= require demo1
+//= require_tree .

@@ -1,0 +1,18 @@
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *= require lightbox
+ *= require uncover
+ *= require set1
+ *= require style
+ *= require_tree ./
+ *= require_self
+
+ */
+
+@import url(https://fonts.googleapis.com/css?family=Crimson+Text:400i);
+@import url(https://fonts.googleapis.com/css?family=Roboto:300,400,500,700);
+// Custom bootstrap variables must be set or imported *before* bootstrap.
+@import "bootstrap";
+@import "font-awesome";
+@import 'font_awesome5_webfont';
