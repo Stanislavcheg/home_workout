@@ -2,22 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8493cc6a-bc4a-48f5-a74c-578b92d857ad" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/app/models/image.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/models/video.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/1w6fhu.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/gymnastic_rings/days_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/gymnastic_rings/days_controller.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/helpers/catalog_helper.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/helpers/days_helper.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/helpers/gymnastic_rings/programs_helper.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/helpers/gymnastic_rings_helper.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/models/exercise.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/exercise.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/gymnastic_rings/days/show.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/gymnastic_rings/days/show.html.haml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/gymnastic_rings/index.html.haml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/Велосипед.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/videos/Велосипед.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/Выброс гантели.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/videos/Выброс гантели.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/Икры.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/videos/Икры.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/Махи ногами в сторону.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/videos/Махи ногами в сторону.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/Махи ногой вверх.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/videos/Махи ногой вверх.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/Махи с бинтом.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/videos/Махи с бинтом.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/Отжимания на кольцах как на брусьях.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/videos/Отжимания на кольцах как на брусьях.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/Подъем таза.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/videos/Подъем таза.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/Приседания с гантелями.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/videos/Приседания с гантелями.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/Разведение гантелей стоя.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/videos/Разведение гантелей стоя.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/Тяга на бицепс.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/videos/Тяга на бицепс.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/Тяга на предплечье.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/videos/Тяга на предплечье.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/выпады.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/videos/выпады.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/классические отжимания.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/videos/классические отжимания.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/обратные отжимания.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/videos/обратные отжимания.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/отжимания от стульев.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/videos/отжимания от стульев.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/отжимания с переносом центра тяжести.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/videos/отжимания с переносом центра тяжести.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/планка.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/videos/планка.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/разгибания рук лежа.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/videos/разгибания рук лежа.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/раскладушка.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/videos/раскладушка.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/скручивания.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/videos/скручивания.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/узкие отжимания.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/videos/узкие отжимания.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/gymnastic_rings/prog2.html.haml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/views/gymnastic_rings/programs/show.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/gymnastic_rings/programs/show.html.haml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/schema.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/schema.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/seeds.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/seeds.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/controllers/catalog_controller_test.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/controllers/days_controller_test.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/controllers/gymnastic_rings/programs_controller_test.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/controllers/gymnastic_rings_controller_test.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/fixtures/days.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/fixtures/exercises.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/fixtures/programs.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/fixtures/resources.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/models/day_test.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/models/exercise_test.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/models/program_test.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/models/resource_test.rb" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
@@ -52,16 +73,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="prog2.html.haml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/gymnastic_rings/prog2.html.haml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="107">
-              <caret line="38" selection-start-line="38" selection-end-line="63" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="seeds.rb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="seeds.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/db/seeds.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-983">
@@ -70,11 +82,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="show.html.haml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="show.html.haml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/gymnastic_rings/programs/show.html.haml">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="16" selection-start-column="16" selection-end-column="16" />
+            <state relative-caret-position="150">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -102,15 +114,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret column="14" selection-start-column="6" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="show.html.haml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/gymnastic_rings/days/show.html.haml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -144,7 +147,6 @@
       <find>image_tutorial?</find>
       <find>Разведение гантелей стоя</find>
       <find>1w6f9c.gif</find>
-      <find>махи</find>
       <find>Отжимания в упоре на кольцах</find>
       <find>Отжимания</find>
       <find>Подтягивания обратным хватом</find>
@@ -158,6 +160,7 @@
       <find>горизонтальной</find>
       <find>горизонталь</find>
       <find>Махи ногой вверх</find>
+      <find>махи</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -204,8 +207,8 @@
         <option value="$PROJECT_DIR$/app/models/resource.rb" />
         <option value="$PROJECT_DIR$/app/controllers/gymnastic_rings/days_controller.rb" />
         <option value="$PROJECT_DIR$/app/views/gymnastic_rings/days/show.html.haml" />
-        <option value="$PROJECT_DIR$/app/views/gymnastic_rings/programs/show.html.haml" />
         <option value="$PROJECT_DIR$/db/seeds.rb" />
+        <option value="$PROJECT_DIR$/app/views/gymnastic_rings/programs/show.html.haml" />
       </list>
     </option>
   </component>
@@ -448,12 +451,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588272988337</updated>
-      <workItem from="1588272989483" duration="60851000" />
+      <workItem from="1588272989483" duration="61296000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60851000" />
+    <option name="totallyTimeSpent" value="61296000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -771,13 +774,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/exercise.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="6" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/gymnastic_rings/programs_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -799,6 +795,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/application_record.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/seeds.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-983">
+          <caret line="311" column="91" selection-start-line="311" selection-start-column="91" selection-end-line="311" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/gymnastic_rings/days/show.html.haml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -806,17 +812,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/gymnastic_rings/programs/show.html.haml">
+    <entry file="file://$PROJECT_DIR$/app/models/exercise.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="16" selection-start-column="16" selection-end-column="16" />
+          <caret column="14" selection-start-column="6" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/db/seeds.rb">
+    <entry file="file://$PROJECT_DIR$/app/views/gymnastic_rings/programs/show.html.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-983">
-          <caret line="311" column="91" selection-start-line="311" selection-start-column="91" selection-end-line="311" selection-end-column="91" />
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
