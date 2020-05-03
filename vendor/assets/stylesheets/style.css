@@ -466,8 +466,7 @@ background:#47c19b;
     -o-transition: 0.5s all;
     -ms-transition: 0.5s all;
 }
-.ser-inner-info h3 {
-    font-size: 27px;
+.ser-inner-info h4 {
     color: #000;
     letter-spacing: 2px;
     margin: 17px 0px;
