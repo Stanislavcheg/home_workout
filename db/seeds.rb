@@ -1,3 +1,92 @@
+# С гантелями
+# Программа 1
+p = DumbbellProgram.create(name: 'Программа 1')
+# День 1
+d = Day.create(name: 'День 1. Ноги.', program_id: p.id)
+e = Exercise.create(
+  name:'Выпады с гантелями (любой вариант)',
+  desc: '4 подхода по 10 раз на каждую ногу',
+  day_id: d.id
+)
+Video.create(name: 'выпады', exercise_id: e.id)
+
+e = Exercise.create(
+  name:'Приседания с гантелями',
+  desc: '3 подхода по 10-12 раз',
+  day_id: d.id
+)
+Video.create(name: 'Приседания с гантелями', exercise_id: e.id)
+
+e = Exercise.create(
+  name:'Мертвая тяга с гантелями',
+  desc: '4 подхода по 10 раз',
+  day_id: d.id
+)
+Video.create(name: 'Мертвая тяга', exercise_id: e.id)
+
+e = Exercise.create(
+  name: 'Подъем таза',
+  desc: '3 подхода по 10-15 раз',
+  day_id: d.id
+)
+Video.create(name: 'Подъем таза', exercise_id: e.id)
+
+e = Exercise.create(
+  name: 'Велосипед',
+  desc: '3 подхода по 10-15 раз',
+  day_id: d.id
+)
+Video.create(name: 'Велосипед', exercise_id: e.id)
+
+# День 2
+d = Day.create(name: 'День 2. Грудь, трицепс.', program_id: p.id)
+e = Exercise.create(
+  name: 'Жим гантелей лежа',
+  desc: ' 3 подхода по 15 раз',
+  day_id: d.id
+)
+Video.create(name: 'жим гантелей лежа', exercise_id: e.id)
+
+e = Exercise.create(
+  name:'Разведение гантелей лежа',
+  desc: '3 подхода по 15 раз',
+  day_id: d.id
+)
+Image.create(name: 'разведение гантелей лёжа.gif', exercise_id: e.id)
+
+e = Exercise.create(
+  name:'Отжимания с переносом центра тяжести',
+  desc: '3 подхода на максимум (15)',
+  day_id: d.id
+)
+Video.create(name: 'отжимания с переносом центра тяжести', exercise_id: e.id)
+
+e = Exercise.create(
+  name:'Французский жим с гантелями лежа',
+  desc: '3 подхода по 10-12 раз',
+  day_id: d.id
+)
+Image.create(name: 'французкий жим лёжа с гантелями.gif', exercise_id: e.id)
+
+e = Exercise.create(
+  name:'Разгибание руки с гантелей из за головы',
+  desc: '3 подхода по 10-12 раз каждой рукой',
+  day_id: d.id
+)
+Image.create(name: 'разгибание руки с гантелей из за головы.gif', exercise_id: e.id)
+
+e = Exercise.create(
+  name:'Скручивания',
+  desc: '4 подхода на максимум',
+  day_id: d.id
+)
+Video.create(name: 'скручивания', exercise_id: e.id)
+
+
+
+
+
+
 # С кольцами
 # Программа 1
 p = RingsProgram.create(name: 'Программа 1')

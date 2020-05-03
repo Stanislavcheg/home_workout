@@ -2,43 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8493cc6a-bc4a-48f5-a74c-578b92d857ad" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/app/controllers/dumbbells/days_controller.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/controllers/dumbbells/programs_controller.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/dumbbells/days/show.html.haml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/dumbbells/programs/index.html.haml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/dumbbells/programs/show.html.haml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/Велосипед.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/videos/Велосипед.mp4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/Выброс гантели.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/videos/Выброс гантели.mp4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/Икры.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/videos/Икры.mp4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/Махи ногами в сторону.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/videos/Махи ногами в сторону.mp4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/Махи ногой вверх.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/videos/Махи ногой вверх.mp4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/Махи с бинтом.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/videos/Махи с бинтом.mp4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/Отжимания на кольцах как на брусьях.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/videos/Отжимания на кольцах как на брусьях.mp4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/Подъем таза.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/videos/Подъем таза.mp4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/Приседания с гантелями.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/videos/Приседания с гантелями.mp4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/Разведение гантелей стоя.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/videos/Разведение гантелей стоя.mp4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/Тяга на бицепс.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/videos/Тяга на бицепс.mp4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/Тяга на предплечье.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/videos/Тяга на предплечье.mp4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/выпады.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/videos/выпады.mp4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/классические отжимания.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/videos/классические отжимания.mp4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/обратные отжимания.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/videos/обратные отжимания.mp4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/отжимания от стульев.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/videos/отжимания от стульев.mp4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/отжимания с переносом центра тяжести.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/videos/отжимания с переносом центра тяжести.mp4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/планка.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/videos/планка.mp4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/разгибания рук лежа.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/videos/разгибания рук лежа.mp4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/раскладушка.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/videos/раскладушка.mp4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/скручивания.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/videos/скручивания.mp4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/узкие отжимания.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/videos/узкие отжимания.mp4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/gymnastic_rings/prog2.html.haml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/gymnastic_rings/programs/show.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/gymnastic_rings/programs/show.html.haml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/controllers/catalog_controller_test.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/controllers/days_controller_test.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/controllers/gymnastic_rings/programs_controller_test.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/controllers/gymnastic_rings_controller_test.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/fixtures/days.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/fixtures/exercises.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/fixtures/programs.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/fixtures/resources.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/models/day_test.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/models/exercise_test.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/models/program_test.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/models/resource_test.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/catalog/index.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/catalog/index.html.haml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/seeds.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/seeds.rb" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
@@ -64,11 +35,47 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="body_program.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/models/body_program.rb">
+      <file leaf-file-name="days_controller.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/dumbbells/days_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="90">
+              <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html.haml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/catalog/index.html.haml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="51" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html.haml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/dumbbells/programs/index.html.haml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="51" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="show.html.haml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/views/dumbbells/programs/show.html.haml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="74" selection-start-line="6" selection-start-column="74" selection-end-line="6" selection-end-column="74" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="programs_controller.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/dumbbells/programs_controller.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -76,17 +83,17 @@
       <file leaf-file-name="seeds.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/db/seeds.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-983">
-              <caret line="311" column="91" selection-start-line="311" selection-start-column="91" selection-end-line="311" selection-end-column="91" />
+            <state relative-caret-position="662">
+              <caret line="75" column="5" selection-start-line="75" selection-start-column="5" selection-end-line="75" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="show.html.haml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="show.html.haml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/gymnastic_rings/programs/show.html.haml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -100,15 +107,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="video.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/models/video.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="exercise.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/models/exercise.rb">
           <provider selected="true" editor-type-id="text-editor">
@@ -118,20 +116,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="programs_controller.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/controllers/gymnastic_rings/programs_controller.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="65" selection-start-line="10" selection-start-column="6" selection-end-line="12" selection-end-column="65" />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>breadcrumb</find>
       <find>.inner_breadcrumb</find>
       <find>margin-bottom:</find>
       <find>.ser-inner-info</find>
@@ -159,8 +147,9 @@
       <find>Подтягивания широким хватом</find>
       <find>горизонтальной</find>
       <find>горизонталь</find>
-      <find>Махи ногой вверх</find>
       <find>махи</find>
+      <find>Махи ногой вверх</find>
+      <find>с пере</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -194,7 +183,6 @@
         <option value="$PROJECT_DIR$/app/assets/stylesheets/breadcrumbs.sass" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/breadcrumbs.scss" />
         <option value="$PROJECT_DIR$/app/views/layouts/application.html.haml" />
-        <option value="$PROJECT_DIR$/app/views/catalog/index.html.haml" />
         <option value="$PROJECT_DIR$/app/views/gymnastic_rings/prog2.html.haml" />
         <option value="$PROJECT_DIR$/app/views/gymnastic_rings/index.html.haml" />
         <option value="$PROJECT_DIR$/app/views/gymnastic_rings/programs/index.html.haml" />
@@ -207,8 +195,13 @@
         <option value="$PROJECT_DIR$/app/models/resource.rb" />
         <option value="$PROJECT_DIR$/app/controllers/gymnastic_rings/days_controller.rb" />
         <option value="$PROJECT_DIR$/app/views/gymnastic_rings/days/show.html.haml" />
-        <option value="$PROJECT_DIR$/db/seeds.rb" />
         <option value="$PROJECT_DIR$/app/views/gymnastic_rings/programs/show.html.haml" />
+        <option value="$PROJECT_DIR$/db/seeds.rb" />
+        <option value="$PROJECT_DIR$/app/controllers/dumbbells/days_controller.rb" />
+        <option value="$PROJECT_DIR$/app/controllers/dumbbells/programs_controller.rb" />
+        <option value="$PROJECT_DIR$/app/views/catalog/index.html.haml" />
+        <option value="$PROJECT_DIR$/app/views/dumbbells/programs/index.html.haml" />
+        <option value="$PROJECT_DIR$/app/views/dumbbells/programs/show.html.haml" />
       </list>
     </option>
   </component>
@@ -250,7 +243,7 @@
               <item name="workout" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="controllers" type="462c0819:PsiDirectoryNode" />
-              <item name="gymnastic_rings" type="462c0819:PsiDirectoryNode" />
+              <item name="dumbbells" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="workout" type="b2602c69:ProjectViewProjectNode" />
@@ -270,6 +263,29 @@
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="views" type="462c0819:PsiDirectoryNode" />
               <item name="catalog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="workout" type="b2602c69:ProjectViewProjectNode" />
+              <item name="workout" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="dumbbells" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="workout" type="b2602c69:ProjectViewProjectNode" />
+              <item name="workout" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="dumbbells" type="462c0819:PsiDirectoryNode" />
+              <item name="days" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="workout" type="b2602c69:ProjectViewProjectNode" />
+              <item name="workout" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="dumbbells" type="462c0819:PsiDirectoryNode" />
+              <item name="programs" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="workout" type="b2602c69:ProjectViewProjectNode" />
@@ -322,11 +338,11 @@
       <recent name="$PROJECT_DIR$/app/controllers/gymnastic_rings" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/views" />
+      <recent name="$PROJECT_DIR$/app/controllers" />
       <recent name="$PROJECT_DIR$/app/models" />
       <recent name="$PROJECT_DIR$/app/views/gymnastic_rings/programs" />
       <recent name="$PROJECT_DIR$/app/views/layouts" />
-      <recent name="$PROJECT_DIR$/app/views/gymnastic_rings" />
-      <recent name="$PROJECT_DIR$/app/assets/stylesheets" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -451,12 +467,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588272988337</updated>
-      <workItem from="1588272989483" duration="61296000" />
+      <workItem from="1588272989483" duration="64083000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61296000" />
+    <option name="totallyTimeSpent" value="64083000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -513,12 +529,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/views/catalog/index.html.erb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config.ru">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="403">
@@ -638,13 +648,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/dumbbell_program.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/db/schema.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -697,31 +700,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/catalog/index.html.haml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/gymnastic_rings_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" selection-start-line="1" selection-end-line="2" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/catalog_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/routes.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -798,13 +780,6 @@
     <entry file="file://$PROJECT_DIR$/app/models/application_record.rb">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/db/seeds.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-983">
-          <caret line="311" column="91" selection-start-line="311" selection-start-column="91" selection-end-line="311" selection-end-column="91" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/gymnastic_rings/days/show.html.haml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -822,7 +797,76 @@
     <entry file="file://$PROJECT_DIR$/app/views/gymnastic_rings/programs/show.html.haml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/images/dumbbell.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/seeds.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="662">
+          <caret line="75" column="5" selection-start-line="75" selection-start-column="5" selection-end-line="75" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/routes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/dumbbell_program.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" selection-start-column="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/dumbbells/programs_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/catalog_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/dumbbells/days_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/dumbbells/days/show.html.haml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/catalog/index.html.haml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="51" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/dumbbells/programs/index.html.haml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="51" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/dumbbells/programs/show.html.haml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="74" selection-start-line="6" selection-start-column="74" selection-end-line="6" selection-end-column="74" />
         </state>
       </provider>
     </entry>
