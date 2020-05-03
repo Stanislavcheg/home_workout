@@ -2,45 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8493cc6a-bc4a-48f5-a74c-578b92d857ad" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/app/assets/images/1w6fbt.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/1w6ff0.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/1w6fgi.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/1w6fij.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/1w6g3h.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/1w6g86.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/arrow.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/bb1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/bb2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/bb3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/bc1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/g1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/g2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/g3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/g4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/g5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/g6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/g7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/g8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/gymanium.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/next.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/prev.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/sc1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/sports-and-competition.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/ss1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/sub1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/Бицепс с гантелей, с упором в бедро.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/Горизонтальная тяга на кольцах.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/Подброс ног к корпусу.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/Подтягивания обратным хватом.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/Подтягивания широким хватом.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/Тяга на кольцах на заднюю дельту.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/жим гантелей сидя.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/разведение гантелей в наклоне.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/разведение гантелей лёжа.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/разгибание руки с гантелей из за головы.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/французкий жим лёжа с гантелями.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/частичные подтягивания обратным хватом.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/частичные подтягивания широким хватом.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/Бицепс с гантелями стоя.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/Велосипед.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/Жим гантелей.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/Икры.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/Махи гантелями перед собой.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/Махи ногами в сторону.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/Махи ногой вверх.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/Махи с бинтом.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/Мертвая тяга.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/Отжимания на кольцах как на брусьях.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/Подтягивания обратным хватом.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/Подтягивания.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/Подъем таза.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/Приседания с гантелями.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/Разведение гантелей стоя.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/Разгибание руки с гантелей.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/Тяга гантелей в наклоне.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/Тяга гантели к бедру.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/Тяга на бицепс.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/Тяга на предплечье.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/жим гантелей лежа.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/классические отжимания.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/молоток.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/обратные отжимания.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/отжимания от стульев.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/отжимания с переносом центра тяжести.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/планка.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/разгибания рук лежа.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/раскладушка.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/скручивания.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/узкие отжимания.mp4" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/db/seeds.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/seeds.rb" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
@@ -79,8 +73,8 @@
       <file leaf-file-name="Gemfile" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="315">
+              <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -112,7 +106,7 @@
         <entry file="file://$PROJECT_DIR$/db/seeds.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="287">
-              <caret line="735" column="55" selection-start-line="735" selection-start-column="20" selection-end-line="735" selection-end-column="55" />
+              <caret line="446" column="18" selection-start-line="446" selection-start-column="9" selection-end-line="446" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -148,37 +142,69 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>горизонтальной</find>
-      <find>горизонталь</find>
-      <find>махи</find>
-      <find>Махи ногой вверх</find>
-      <find>с пере</find>
-      <find>мертв</find>
-      <find>Разведение</find>
-      <find>Разведение гантелей лежа</find>
-      <find>Жим гантелей лежа</find>
-      <find>Отжимания от стульев</find>
-      <find>махи с</find>
-      <find>Жим гантелей сидя</find>
-      <find>Подтягивания</find>
-      <find>Тяга гантелей в наклоне</find>
-      <find>Бицепс с гантелей в наклоне</find>
       <find>Разгибания рук лежа</find>
       <find>Планка</find>
-      <find>планка</find>
       <find>класс</find>
       <find>Жим гантелей стоя</find>
-      <find>Тяга гантели к бедру</find>
-      <find>молоток</find>
       <find>разгибанием с гантелей в наклоне</find>
       <find>с гантелей в наклоне</find>
       <find>h3</find>
       <find>ser-inner-info</find>
-      <find>Разгибание руки с гантелей</find>
       <find>Бицепс с гантелей, с упором в бедро</find>
       <find>Разгибание руки с гантелей</find>
       <find>1w6g86.gif</find>
+      <find>Приседания на 1 ноге с кольцами.gif</find>
+      <find>zhim-gantelei-sidya</find>
+      <find>Жим гантелей</find>
+      <find>Разгибание руки с гантелей</find>
+      <find>молоток</find>
+      <find>Бицепс с гантелями стоя</find>
+      <find>Тяга гантели к бедру</find>
+      <find>Подтягивания</find>
+      <find>Подтягивания обратным хватом</find>
+      <find>Мертвая тяга</find>
+      <find>Икры</find>
+      <find>Тяга на предплечье</find>
+      <find>отжимания от стульев</find>
+      <find>Подъем таза</find>
+      <find>Тяга на бицепс</find>
+      <find>Приседания с гантелями</find>
+      <find>планка</find>
+      <find>скручивания</find>
+      <find>Велосипед</find>
     </findStrings>
+    <replaceStrings>
+      <replace>zhim-gantelei</replace>
+      <replace>razgibanie-ruki-s-gantelei</replace>
+      <replace>Mahi-gantelyami-pered-soboi</replace>
+      <replace>molotok</replace>
+      <replace>biceps-s-gantelyami-stoya</replace>
+      <replace>tyaga-ganteli-k-bedru</replace>
+      <replace>podtyagivaniya</replace>
+      <replace>tyaga-gantelei-v-naklone</replace>
+      <replace>zhim-gantelei-lezha</replace>
+      <replace>mertvaya-tyaga</replace>
+      <replace>ikry</replace>
+      <replace>tyaga-na-predpleche</replace>
+      <replace>mahi-s-bintom</replace>
+      <replace>mahi-nogami-v-storonu</replace>
+      <replace>otzhimaniya-s-perenosom-centra-tyazhesti</replace>
+      <replace>mahi-nogoi-vverh</replace>
+      <replace>razgibaniya-ruk-lezha</replace>
+      <replace>razvedenie-gantelei-stoya</replace>
+      <replace>raskladushka</replace>
+      <replace>otzhimaniya-ot-stulev</replace>
+      <replace>podem-taza</replace>
+      <replace>klassicheskie-otzhimaniya</replace>
+      <replace>tyaga-na-biceps</replace>
+      <replace>obratnye-otzhimaniya</replace>
+      <replace>uzkie-otzhimaniya</replace>
+      <replace>otzhimaniya-na-kolcah-kak-na-brusyah</replace>
+      <replace>prisedaniya-s-gantelyami</replace>
+      <replace>planka</replace>
+      <replace>skruchivaniya</replace>
+      <replace>velosiped</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -496,12 +522,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588272988337</updated>
-      <workItem from="1588272989483" duration="76244000" />
+      <workItem from="1588272989483" duration="79874000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76244000" />
+    <option name="totallyTimeSpent" value="79874000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -887,15 +913,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="315">
+          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/db/seeds.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="287">
-          <caret line="735" column="55" selection-start-line="735" selection-start-column="20" selection-end-line="735" selection-end-column="55" />
+          <caret line="446" column="18" selection-start-line="446" selection-start-column="9" selection-end-line="446" selection-end-column="18" />
         </state>
       </provider>
     </entry>

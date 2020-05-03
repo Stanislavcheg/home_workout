@@ -19,6 +19,8 @@ gem 'turbolinks', '~> 5'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 2.5'
 
+gem 'pg', '~> 0.20.0'
+
 gem 'font-awesome-rails'
 gem 'font_awesome5_rails'
 gem 'haml', '~> 5.0'
