@@ -52,7 +52,7 @@ e = Exercise.create(
   desc: '3 подхода по 15 раз',
   day_id: d.id
 )
-Image.create(name: 'разведение гантелей лёжа.gif', exercise_id: e.id)
+Image.create(name: 'razvedenie-gantelei-lezha.gif', exercise_id: e.id)
 
 e = Exercise.create(
   name:'Отжимания с переносом центра тяжести',
@@ -66,14 +66,14 @@ e = Exercise.create(
   desc: '3 подхода по 10-12 раз',
   day_id: d.id
 )
-Image.create(name: 'французкий жим лёжа с гантелями.gif', exercise_id: e.id)
+Image.create(name: 'francuzkii-zhim-lezha-s-gantelyami.gif', exercise_id: e.id)
 
 e = Exercise.create(
   name:'Разгибание руки с гантелей из за головы',
   desc: '3 подхода по 10-12 раз каждой рукой',
   day_id: d.id
 )
-Image.create(name: 'разгибание руки с гантелей из за головы.gif', exercise_id: e.id)
+Image.create(name: 'razgibanie-ruki-s-gantelei-iz-za-golovy.gif', exercise_id: e.id)
 
 e = Exercise.create(
   name:'Скручивания',
@@ -133,7 +133,7 @@ e = Exercise.create(
   desc: '3 подхода по 10-12 раз',
   day_id: d.id
 )
-Image.create(name: 'жим гантелей сидя.gif', exercise_id: e.id)
+Image.create(name: 'zhim-gantelei-sidya.gif', exercise_id: e.id)
 
 e = Exercise.create(
   name:'Разведение с гантелями стоя (махи в стороны)',
@@ -154,7 +154,7 @@ e = Exercise.create(
   desc: '3 подхода по 10-12 раз',
   day_id: d.id
 )
-Image.create(name: 'разведение гантелей в наклоне.gif', exercise_id: e.id)
+Image.create(name: 'razvedenie-gantelei-v-naklone.gif', exercise_id: e.id)
 
 e = Exercise.create(
   name: 'Подъем на носки стоя (икроножные мышцы)',
@@ -209,7 +209,7 @@ e = Exercise.create(
   desc: '4 подхода по 8-10 раз. Очень хорошо разомнитесь!!! Когда мы выполняем разведение гантелей в перовом упражнении- это травмоопаснее, чем при жиме. Но, это позволяет утомить грудь, как целевую мышцу. В жимовых упражнениях, например, в жиме гантелей или отжиманиях, кроме груди, в работу включается и трицепс, забирая часть нагрузки. Но при разведении гантелей этого не происходит. И хорошо утомив грудь более изолирующим упражнением, перед жимовыми, в качестве чередования,- очень положительно сказывается на росте грудных мышц.',
   day_id: d.id
 )
-Image.create(name: 'разведение гантелей лёжа.gif', exercise_id: e.id)
+Image.create(name: 'razvedenie-gantelei-lezha.gif', exercise_id: e.id)
 
 e = Exercise.create(
   name:'Жим гантелей лежа',
@@ -237,7 +237,7 @@ e = Exercise.create(
   desc: '4 подхода по 8-10 раз',
   day_id: d.id
 )
-Image.create(name: 'жим гантелей сидя.gif', exercise_id: e.id)
+Image.create(name: 'zhim-gantelei-sidya.gif', exercise_id: e.id)
 
 e = Exercise.create(
   name:'Скручивания',
@@ -288,7 +288,7 @@ e = Exercise.create(
   desc: '3 подхода по 10 раз. При выполнении упражнения сначала одной рукой, а затем- другой, всегда дает более детально почувствовать целевую мышцу. Это очень эффективное упражнение для трицепса с гантелей.',
   day_id: d.id
 )
-Image.create(name: 'разгибание руки с гантелей из за головы.gif', exercise_id: e.id)
+Image.create(name: 'razgibanie-ruki-s-gantelei-iz-za-golovy.gif', exercise_id: e.id)
 
 e = Exercise.create(
   name:'Планка',
@@ -338,7 +338,7 @@ e = Exercise.create(
   day_id: d.id
 )
 Video.create(name: 'жим гантелей лежа', exercise_id: e.id)
-Image.create(name: 'разведение гантелей лёжа.gif', exercise_id: e.id)
+Image.create(name: 'razvedenie-gantelei-lezha.gif', exercise_id: e.id)
 
 e = Exercise.create(
   name:'Классические отжимания',
@@ -361,7 +361,7 @@ e = Exercise.create(
   day_id: d.id
 )
 Video.create(name: 'Махи гантелями перед собой', exercise_id: e.id)
-Image.create(name: 'разведение гантелей в наклоне.gif', exercise_id: e.id)
+Image.create(name: 'razvedenie-gantelei-v-naklone.gif', exercise_id: e.id)
 
 e = Exercise.create(
   name:'Скручивания',
@@ -393,14 +393,14 @@ e = Exercise.create(
   day_id: d.id
 )
 Video.create(name: 'молоток', exercise_id: e.id)
-Image.create(name: 'французкий жим лёжа с гантелями.gif', exercise_id: e.id)
+Image.create(name: 'francuzkii-zhim-lezha-s-gantelyami.gif', exercise_id: e.id)
 
 e = Exercise.create(
   name:'Бицепс с гантелей, с упором в бедро суперсетом с разгибанием с гантелей в наклоне',
   desc: '2 подхода по 10 раз. Делаем бицепс и сразу разгибания на одну руку, отдыхаем 30-60 секунд- и на другую. Это будет 1 подход.',
   day_id: d.id
 )
-Image.create(name: 'Бицепс с гантелей, с упором в бедро.gif', exercise_id: e.id)
+Image.create(name: 'Biceps-s-gantelei-s-uporom-v-bedro.gif', exercise_id: e.id)
 Video.create(name: 'Разгибание руки с гантелей', exercise_id: e.id)
 
 e = Exercise.create(
@@ -408,7 +408,7 @@ e = Exercise.create(
   desc: '3 подхода по 10 раз. При выполнении упражнения сначала одной рукой, а затем- другой, всегда дает более детально почувствовать целевую мышцу. Это очень эффективное упражнение для трицепса с гантелей.',
   day_id: d.id
 )
-Image.create(name: 'разгибание руки с гантелей из за головы.gif', exercise_id: e.id)
+Image.create(name: 'razgibanie-ruki-s-gantelei-iz-za-golovy.gif', exercise_id: e.id)
 
 e = Exercise.create(
   name:'Планка',
@@ -457,14 +457,14 @@ e = Exercise.create(
   desc: '4 подхода на максимум (на 15-20)',
   day_id: d.id
 )
-Image.create(name: '1w6fbt.gif', exercise_id: e.id)
+Image.create(name: 'otzhimaniya-v-upore-na-kolcah.gif', exercise_id: e.id)
 
 e = Exercise.create(
   name:'Разведение рук с кольцами',
   desc: '4 на 10-15 (В подобных упражнениях, с использованием колец, вы можете регулировать нагрузку, меняя угол наклона. Подбирайте нагрузку для выполнения нужного количества повторений.)',
   day_id: d.id
 )
-Image.create(name: '1w6fij.gif', exercise_id: e.id)
+Image.create(name: 'razvedenie-ruk-s-kolcami.gif', exercise_id: e.id)
 
 e = Exercise.create(
   name:'Классические отжимания',
@@ -501,23 +501,23 @@ e = Exercise.create(
   desc: '3 подхода по 10 (Как и ранее, если вы не умеете подтягиваться или подтягиваетесь всего несколько раз- выполняем частичные подтягивания, регулируя нагрузку). Либо, вы можете повесить кольца так, чтобы немного помогать себе ногами, если вы, скажем, подтягиваетесь 7 раз, и помощь вам нужна только в 3 последних).',
   day_id: d.id
 )
-Image.create(name: 'Подтягивания широким хватом.gif', exercise_id: e.id)
-Image.create(name: 'частичные подтягивания широким хватом.gif', exercise_id: e.id)
+Image.create(name: 'podtyagivaniya-shirokim-hvatom.gif', exercise_id: e.id)
+Image.create(name: 'chastichnye-podtyagivaniya-shirokim-hvatom.gif', exercise_id: e.id)
 
 e = Exercise.create(
   name:'Горизонтальная тяга на кольцах',
   desc: '3 подхода по 15-20',
   day_id: d.id
 )
-Image.create(name: 'Горизонтальная тяга на кольцах.gif', exercise_id: e.id)
+Image.create(name: 'Gorizontalnaya-tyaga-na-kolcah.gif', exercise_id: e.id)
 
 e = Exercise.create(
   name: 'Подтягивания обратным хватом',
   desc: '3 подхода по 10 раз',
   day_id: d.id
 )
-Image.create(name: 'Подтягивания обратным хватом.gif', exercise_id: e.id)
-Image.create(name: 'частичные подтягивания обратным хватом.gif', exercise_id: e.id)
+Image.create(name: 'podtyagivaniya-obratnym-hvatom.gif', exercise_id: e.id)
+Image.create(name: 'chastichnye-podtyagivaniya-obratnym-hvatom.gif', exercise_id: e.id)
 
 e = Exercise.create(
   name:'Тяга на предплечье',
@@ -555,7 +555,7 @@ e = Exercise.create(
   desc: '4 подхода по 15 раз',
   day_id: d.id
 )
-Image.create(name: 'Тяга на кольцах на заднюю дельту.gif', exercise_id: e.id)
+Image.create(name: 'tyaga-na-kolcah-na-zadnyuyu-deltu.gif', exercise_id: e.id)
 
 e = Exercise.create(
   name: 'Подъем на носки стоя (икроножные мышцы)',
@@ -569,7 +569,7 @@ e = Exercise.create(
   desc: '5 подходов на максимум',
   day_id: d.id
 )
-Image.create(name: 'Подброс ног к корпусу.gif', exercise_id: e.id)
+Image.create(name: 'podbros-nog-k-korpusu.gif', exercise_id: e.id)
 
 # Программа 2
 p = RingsProgram.create(name: 'Программа 2')
@@ -586,7 +586,7 @@ e =Exercise.create(
   desc: 'Подряд 4 подхода на максимум (6-8) (это обозначение как и в первой программе. То есть, если без веса вы приседаете больше, но можете повесить на спину рюкзак или другой утяжелитель, доведя количество повторений до 6-8, но более сложных- так и делаем. Если нет- выполняем на максимум). «Подряд»- это значит, что мы приседаем указанное количество раз сначала на одной ноге, затем минуту отдыхаем и приседаем на второй ноге. Выпады назад 3 на максимум (6-8) Здесь делаем не поочередно, а подряд. То есть, выполнили сначала 6-8 повторений на 1 ногу, затем- минуту отдохнули и 6-8 повторений (или максимум)- на вторую ногу',
   day_id: d.id
 )
-Image.create(name: 'Приседания на 1 ноге с кольцами.gif', exercise_id: e.id)
+Image.create(name: 'prisedaniya-na-1-noge-s-kolcami.gif', exercise_id: e.id)
 
 e = Exercise.create(
   name:'Приседания',
@@ -623,14 +623,14 @@ e = Exercise.create(
   desc: '3 подхода по 8-10 раз. Это одно из лучших упражнений для тренировки груди, но в то же время, одно из самых травмоопасных. По этому, помимо того, что вы размялись отжиманиями, разомнитесь и с кольцами, с минимальной нагрузкой, и только после разминки переходите к «рабочему» углу наклона для разведения рук с кольцами.',
   day_id: d.id
 )
-Image.create(name: '1w6fij.gif', exercise_id: e.id)
+Image.create(name: 'razvedenie-ruk-s-kolcami.gif', exercise_id: e.id)
 
 e = Exercise.create(
   name:'Отжимания на кольцах для груди',
   desc: '3 подхода по 8-10 раз',
   day_id: d.id
 )
-Image.create(name: '1w6fbt.gif', exercise_id: e.id)
+Image.create(name: 'otzhimaniya-v-upore-na-kolcah.gif', exercise_id: e.id)
 
 e = Exercise.create(
   name:'Отжимания с переносом центра тяжести',
@@ -652,14 +652,14 @@ e = Exercise.create(
   desc: '3 подхода по 10-12',
   day_id: d.id
 )
-Image.create(name: 'Тяга на кольцах на заднюю дельту.gif', exercise_id: e.id)
+Image.create(name: 'tyaga-na-kolcah-na-zadnyuyu-deltu.gif', exercise_id: e.id)
 
 e = Exercise.create(
   name:'Подброс ног к корпусу',
   desc: '4 подхода на максимум',
   day_id: d.id
 )
-Image.create(name: 'Подброс ног к корпусу.gif', exercise_id: e.id)
+Image.create(name: 'podbros-nog-k-korpusu.gif', exercise_id: e.id)
 
 # День 3
 d = Day.create(name: 'День 3. Спина, бицепс, трицепс.', program_id: p.id)
@@ -668,39 +668,39 @@ e = Exercise.create(
   desc: '2 подхода по 6 раз',
   day_id: d.id
 )
-Image.create(name: 'Подтягивания широким хватом.gif', exercise_id: e.id)
-Image.create(name: 'частичные подтягивания широким хватом.gif', exercise_id: e.id)
+Image.create(name: 'podtyagivaniya-shirokim-hvatom.gif', exercise_id: e.id)
+Image.create(name: 'chastichnye-podtyagivaniya-shirokim-hvatom.gif', exercise_id: e.id)
 
 e = Exercise.create(
   name:'Подтягивания параллельным хватом',
   desc: '2 подхода по 6 раз',
   day_id: d.id
 )
-Image.create(name: '1w6fgi.gif', exercise_id: e.id)
-Image.create(name: '1w6g3h.gif', exercise_id: e.id)
+Image.create(name: 'podtyagivaniya-parallelnym-hvatom.gif', exercise_id: e.id)
+Image.create(name: 'chastichnye-podtyagivaniya-parallelnym-hvatom.gif', exercise_id: e.id)
 
 e = Exercise.create(
   name:'Подтягивания обратным хватом',
   desc: '2 подхода по 6 раз',
   day_id: d.id
 )
-Image.create(name: 'Подтягивания обратным хватом.gif', exercise_id: e.id)
-Image.create(name: 'частичные подтягивания обратным хватом.gif', exercise_id: e.id)
+Image.create(name: 'podtyagivaniya-obratnym-hvatom.gif', exercise_id: e.id)
+Image.create(name: 'chastichnye-podtyagivaniya-obratnym-hvatom.gif', exercise_id: e.id)
 
 e = Exercise.create(
   name:'Горизонтальная тяга на кольцах',
   desc: '3 подхода на максимум (8)',
   day_id: d.id
 )
-Image.create(name: 'Горизонтальная тяга на кольцах.gif', exercise_id: e.id)
+Image.create(name: 'Gorizontalnaya-tyaga-na-kolcah.gif', exercise_id: e.id)
 
 e = Exercise.create(
   name:'Подтягивания на бицепс на 1 кольце',
   desc: '3 подхода по 6-8 раз',
   day_id: d.id
 )
-Image.create(name: '1w6ff0.gif', exercise_id: e.id)
-Image.create(name: '1w6g86.gif', exercise_id: e.id)
+Image.create(name: 'podtyagivaniya-na-biceps-na-1-kolce.gif', exercise_id: e.id)
+Image.create(name: 'chastichnye-podtyagivaniya-na-biceps-na-1-kolce.gif', exercise_id: e.id)
 
 e = Exercise.create(
   name:'Отжимания узким хватом',
@@ -733,14 +733,14 @@ Exercise.create(
   day_id: d.id
 )
 Video.create(name: 'Приседания с гантелями', exercise_id: e.id)
-Image.create(name: 'Приседания на 1 ноге с кольцами.gif', exercise_id: e.id)
+Image.create(name: 'prisedaniya-na-1-noge-s-kolcami.gif', exercise_id: e.id)
 
 e =Exercise.create(
   name:'Приседания на 1 ноге с кольцами',
   desc: 'Подряд 4 подхода на максимум (6-8) (это обозначение как и в первой программе. То есть, если без веса вы приседаете больше, но можете повесить на спину рюкзак или другой утяжелитель, доведя количество повторений до 6-8, но более сложных- так и делаем. Если нет- выполняем на максимум). «Подряд»- это значит, что мы приседаем указанное количество раз сначала на одной ноге, затем минуту отдыхаем и приседаем на второй ноге. Выпады назад 3 на максимум (6-8) Здесь делаем не поочередно, а подряд. То есть, выполнили сначала 6-8 повторений на 1 ногу, затем- минуту отдохнули и 6-8 повторений (или максимум)- на вторую ногу',
   day_id: d.id
 )
-Image.create(name: 'Приседания на 1 ноге с кольцами.gif', exercise_id: e.id)
+Image.create(name: 'prisedaniya-na-1-noge-s-kolcami.gif', exercise_id: e.id)
 
 e = Exercise.create(
   name:'Махи ногами вверх суперсетом с махами ногами в стороны',
@@ -793,7 +793,7 @@ e = Exercise.create(
   desc: '6 подходов по 10-15 повторений в каждом упражнении.',
   day_id: d.id
 )
-Image.create(name: 'Тяга на кольцах на заднюю дельту.gif', exercise_id: e.id)
+Image.create(name: 'tyaga-na-kolcah-na-zadnyuyu-deltu.gif', exercise_id: e.id)
 Video.create(name: 'Разведение гантелей стоя', exercise_id: e.id)
 Video.create(name: 'Махи с бинтом', exercise_id: e.id)
 
@@ -802,7 +802,7 @@ e = Exercise.create(
   desc: '5 подходов на максимум',
   day_id: d.id
 )
-Image.create(name: 'Подброс ног к корпусу.gif', exercise_id: e.id)
+Image.create(name: 'podbros-nog-k-korpusu.gif', exercise_id: e.id)
 
 # День 3
 d = Day.create(name: 'День 3. Спина, бицепс, трицепс.', program_id: p.id)
@@ -811,17 +811,17 @@ e = Exercise.create(
   desc: '3 подхода по 8-10 в каждом упражнении. В тяге- можно на максимум. Будет немного неудобно, сразу после подтягивания, быстро опускать кольца ниже, для горизонтальной тяги, а затем- снова поднимать, для следующего подхода, но… Этот суперсет того стоит. Он просто нереально включает мышцы в работу.',
   day_id: d.id
 )
-Image.create(name: 'Подтягивания широким хватом.gif', exercise_id: e.id)
-Image.create(name: 'частичные подтягивания широким хватом.gif', exercise_id: e.id)
-Image.create(name: 'Горизонтальная тяга на кольцах.gif', exercise_id: e.id)
+Image.create(name: 'podtyagivaniya-shirokim-hvatom.gif', exercise_id: e.id)
+Image.create(name: 'chastichnye-podtyagivaniya-shirokim-hvatom.gif', exercise_id: e.id)
+Image.create(name: 'Gorizontalnaya-tyaga-na-kolcah.gif', exercise_id: e.id)
 
 e = Exercise.create(
   name:'Подтягивания обратным хватом',
   desc: '2 подхода по 6 раз',
   day_id: d.id
 )
-Image.create(name: 'Подтягивания обратным хватом.gif', exercise_id: e.id)
-Image.create(name: 'частичные подтягивания обратным хватом.gif', exercise_id: e.id)
+Image.create(name: 'podtyagivaniya-obratnym-hvatom.gif', exercise_id: e.id)
+Image.create(name: 'chastichnye-podtyagivaniya-obratnym-hvatom.gif', exercise_id: e.id)
 
 e = Exercise.create(
   name:'Тяга на бицепс',

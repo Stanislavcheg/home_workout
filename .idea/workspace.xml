@@ -2,7 +2,46 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8493cc6a-bc4a-48f5-a74c-578b92d857ad" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/1w6fbt.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/1w6ff0.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/1w6fgi.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/1w6fij.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/1w6g3h.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/1w6g86.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/bb1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/bb2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/bb3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/bc1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/g1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/g2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/g3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/g4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/g5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/g6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/g7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/g8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/gymanium.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/next.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/prev.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/sc1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/sports-and-competition.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/ss1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/sub1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/Бицепс с гантелей, с упором в бедро.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/Горизонтальная тяга на кольцах.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/Подброс ног к корпусу.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/Подтягивания обратным хватом.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/Подтягивания широким хватом.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/Тяга на кольцах на заднюю дельту.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/жим гантелей сидя.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/разведение гантелей в наклоне.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/разведение гантелей лёжа.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/разгибание руки с гантелей из за головы.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/французкий жим лёжа с гантелями.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/частичные подтягивания обратным хватом.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/частичные подтягивания широким хватом.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/seeds.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/seeds.rb" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
@@ -37,11 +76,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Gemfile" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Gemfile" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="195">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
@@ -69,11 +108,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="seeds.rb" pinned="false" current-in-tab="false">
+      <file leaf-file-name="seeds.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/db/seeds.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="71" column="34" selection-start-line="71" selection-start-column="8" selection-end-line="71" selection-end-column="34" />
+            <state relative-caret-position="287">
+              <caret line="735" column="55" selection-start-line="735" selection-start-column="20" selection-end-line="735" selection-end-column="55" />
             </state>
           </provider>
         </entry>
@@ -109,8 +148,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>приседания на 1</find>
-      <find>Подтягивания широким хватом</find>
       <find>горизонтальной</find>
       <find>горизонталь</find>
       <find>махи</find>
@@ -138,7 +175,9 @@
       <find>h3</find>
       <find>ser-inner-info</find>
       <find>Разгибание руки с гантелей</find>
+      <find>Бицепс с гантелей, с упором в бедро</find>
       <find>Разгибание руки с гантелей</find>
+      <find>1w6g86.gif</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -189,9 +228,9 @@
         <option value="$PROJECT_DIR$/app/views/dumbbells/programs/show.html.haml" />
         <option value="$PROJECT_DIR$/app/views/gymnastic_rings/programs/show.html.haml" />
         <option value="$PROJECT_DIR$/vendor/assets/stylesheets/style.css" />
-        <option value="$PROJECT_DIR$/db/seeds.rb" />
         <option value="$PROJECT_DIR$/config/database.yml" />
         <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/db/seeds.rb" />
       </list>
     </option>
   </component>
@@ -457,12 +496,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588272988337</updated>
-      <workItem from="1588272989483" duration="73127000" />
+      <workItem from="1588272989483" duration="76244000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73127000" />
+    <option name="totallyTimeSpent" value="76244000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -832,13 +871,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/db/seeds.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="71" column="34" selection-start-line="71" selection-start-column="8" selection-end-line="71" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/database.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -856,7 +888,14 @@
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/seeds.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="735" column="55" selection-start-line="735" selection-start-column="20" selection-end-line="735" selection-end-column="55" />
         </state>
       </provider>
     </entry>
