@@ -9,4 +9,20 @@ Rails.application.routes.draw do
       resources :days, only: [:show]
     end
   end
+
+  namespace :dumbbells do
+    get '/', action: 'index'
+
+    resources :programs, only: [:index, :show] do
+      resources :days, only: [:show]
+    end
+  end
+
+  namespace :self_weight do
+    get '/', action: 'index'
+
+    resources :programs, only: [:index, :show] do
+      resources :days, only: [:show]
+    end
+  end
 end

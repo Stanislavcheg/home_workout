@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  desc: MyString
+  type: 
+  exercise: one
+
+two:
+  name: MyString
+  desc: MyString
+  type: 
+  exercise: two

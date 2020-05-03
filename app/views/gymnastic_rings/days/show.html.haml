@@ -4,21 +4,20 @@
     .row.justify-content-center
       %h3
         = @day.name
-    - @day.exercises.each do |exercise|
+    - @exercises.each do |exercise|
       .row
         %h4
           = exercise.name
-      .row.mb-3
+      .row
         %p
           = exercise.desc
-        - if exercise.file_name.present?
-          - if exercise.image_tutorial?
-            = image_tag(exercise.file_name, class: 'img-fluid')
+      - exercise.resources.each_with_index do |resource, i|
+        .row.mb-3
+          - if exercise.resources.count > 1
+            %p Вариант #{i + 1}
+          - if resource.image?
+            = image_tag(resource.name, class: 'img-fluid')
           - else
             .embed-responsive.embed-responsive-16by9
-              = video_tag(exercise.file_name, controls: true)
-
-
-
-
-
+              = video_tag(resource.name, controls: true)
+s

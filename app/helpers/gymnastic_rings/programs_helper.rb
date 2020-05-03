@@ -1,2 +1,0 @@
-module GymnasticRings::ProgramsHelper
-end

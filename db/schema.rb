@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2020_05_01_173733) do
+ActiveRecord::Schema.define(version: 2020_05_02_103932) do
 
   create_table "days", force: :cascade do |t|
     t.string "name"
@@ -23,7 +23,6 @@ ActiveRecord::Schema.define(version: 2020_05_01_173733) do
   create_table "exercises", force: :cascade do |t|
     t.string "name"
     t.string "desc"
-    t.string "file_name"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
     t.integer "day_id"
@@ -35,6 +34,16 @@ ActiveRecord::Schema.define(version: 2020_05_01_173733) do
     t.string "type"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+  end
+
+  create_table "resources", force: :cascade do |t|
+    t.string "name"
+    t.string "desc"
+    t.string "type"
+    t.integer "exercise_id"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["exercise_id"], name: "index_resources_on_exercise_id"
   end
 
 end
