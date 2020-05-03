@@ -2,25 +2,60 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8493cc6a-bc4a-48f5-a74c-578b92d857ad" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/javascripts/application.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/javascripts/application.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/stylesheets/application.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/stylesheets/application.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/dumbbells/programs/show.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/dumbbells/programs/show.html.haml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/Biceps-s-gantelei-s-uporom-v-bedro.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/Gorizontalnaya-tyaga-na-kolcah.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/chastichnye-podtyagivaniya-na-biceps-na-1-kolce.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/chastichnye-podtyagivaniya-obratnym-hvatom.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/chastichnye-podtyagivaniya-parallelnym-hvatom.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/chastichnye-podtyagivaniya-shirokim-hvatom.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/francuzkii-zhim-lezha-s-gantelyami.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/otzhimaniya-v-upore-na-kolcah.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/podbros-nog-k-korpusu.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/podtyagivaniya-na-biceps-na-1-kolce.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/podtyagivaniya-obratnym-hvatom.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/podtyagivaniya-parallelnym-hvatom.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/podtyagivaniya-shirokim-hvatom.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/prisedaniya-na-1-noge-s-kolcami.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/razgibanie-ruki-s-gantelei-iz-za-golovy.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/razvedenie-gantelei-lezha.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/razvedenie-gantelei-v-naklone.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/razvedenie-ruk-s-kolcami.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/tyaga-na-kolcah-na-zadnyuyu-deltu.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/zhim-gantelei-sidya.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/Mahi-gantelyami-pered-soboi.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/biceps-s-gantelyami-stoya.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/ikry.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/klassicheskie-otzhimaniya.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/mahi-nogami-v-storonu.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/mahi-nogoi-vverh.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/mahi-s-bintom.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/mertvaya-tyaga.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/molotok.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/obratnye-otzhimaniya.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/otzhimaniya-na-kolcah-kak-na-brusyah.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/otzhimaniya-ot-stulev.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/otzhimaniya-s-perenosom-centra-tyazhesti.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/planka.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/podem-taza.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/podtyagivaniya-obratnym-hvatom.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/podtyagivaniya.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/prisedaniya-s-gantelyami.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/raskladushka.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/razgibanie-ruki-s-gantelei.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/razgibaniya-ruk-lezha.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/razvedenie-gantelei-stoya.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/skruchivaniya.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/tyaga-gantelei-v-naklone.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/tyaga-ganteli-k-bedru.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/tyaga-na-biceps.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/tyaga-na-predpleche.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/uzkie-otzhimaniya.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/velosiped.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/vybros-ganteli.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/vypady.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/zhim-gantelei-lezha.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/videos/zhim-gantelei.mp4" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/db/seeds.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/seeds.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/assets/javascripts/anime.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/assets/javascripts/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/assets/javascripts/demo1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/assets/javascripts/easing.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/assets/javascripts/imagesloaded.pkgd.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/assets/javascripts/jquery-2.2.3.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/assets/javascripts/jquery.countup.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/assets/javascripts/jquery.waypoints.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/assets/javascripts/lightbox-plus-jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/assets/javascripts/move-top.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/assets/javascripts/uncover.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/assets/stylesheets/lightbox.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/assets/stylesheets/set1.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/assets/stylesheets/uncover.css" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
@@ -59,7 +94,7 @@
         <entry file="file://$PROJECT_DIR$/app/views/dumbbells/programs/show.html.haml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
-              <caret line="4" column="50" lean-forward="true" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
+              <caret line="4" column="50" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -67,8 +102,8 @@
       <file leaf-file-name="seeds.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/db/seeds.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-972">
-              <caret line="729" column="4" selection-start-line="729" selection-start-column="4" selection-end-line="729" selection-end-column="4" />
+            <state relative-caret-position="211">
+              <caret line="380" column="95" selection-start-line="380" selection-start-column="95" selection-end-line="380" selection-end-column="95" />
             </state>
           </provider>
         </entry>
@@ -122,7 +157,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>разгибанием с гантелей в наклоне</find>
       <find>с гантелей в наклоне</find>
       <find>h3</find>
       <find>ser-inner-info</find>
@@ -152,9 +186,9 @@
       <find>выпады</find>
       <find>class Uncover</find>
       <find>Махи гантелями перед собой</find>
+      <find>Image.create(name: '</find>
     </findStrings>
     <replaceStrings>
-      <replace>Mahi-gantelyami-pered-soboi</replace>
       <replace>molotok</replace>
       <replace>biceps-s-gantelyami-stoya</replace>
       <replace>tyaga-ganteli-k-bedru</replace>
@@ -184,6 +218,7 @@
       <replace>velosiped</replace>
       <replace>vybros-ganteli</replace>
       <replace>vypady</replace>
+      <replace>Image.create(name: 'https://storage.cloud.google.com/home-workout/</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -540,12 +575,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588272988337</updated>
-      <workItem from="1588272989483" duration="81169000" />
+      <workItem from="1588272989483" duration="82206000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="81169000" />
+    <option name="totallyTimeSpent" value="82206000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -936,14 +971,14 @@
     <entry file="file://$PROJECT_DIR$/app/views/dumbbells/programs/show.html.haml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="4" column="50" lean-forward="true" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
+          <caret line="4" column="50" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/db/seeds.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-972">
-          <caret line="729" column="4" selection-start-line="729" selection-start-column="4" selection-end-line="729" selection-end-column="4" />
+        <state relative-caret-position="211">
+          <caret line="380" column="95" selection-start-line="380" selection-start-column="95" selection-end-line="380" selection-end-column="95" />
         </state>
       </provider>
     </entry>
