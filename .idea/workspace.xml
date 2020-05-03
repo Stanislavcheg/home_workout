@@ -2,40 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8493cc6a-bc4a-48f5-a74c-578b92d857ad" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/Бицепс с гантелями стоя.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/Велосипед.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/Жим гантелей.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/Икры.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/Махи гантелями перед собой.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/Махи ногами в сторону.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/Махи ногой вверх.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/Махи с бинтом.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/Мертвая тяга.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/Отжимания на кольцах как на брусьях.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/Подтягивания обратным хватом.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/Подтягивания.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/Подъем таза.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/Приседания с гантелями.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/Разведение гантелей стоя.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/Разгибание руки с гантелей.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/Тяга гантелей в наклоне.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/Тяга гантели к бедру.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/Тяга на бицепс.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/Тяга на предплечье.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/жим гантелей лежа.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/классические отжимания.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/молоток.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/обратные отжимания.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/отжимания от стульев.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/отжимания с переносом центра тяжести.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/планка.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/разгибания рук лежа.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/раскладушка.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/скручивания.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/узкие отжимания.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/javascripts/application.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/javascripts/application.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/stylesheets/application.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/stylesheets/application.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/dumbbells/programs/show.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/dumbbells/programs/show.html.haml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db/seeds.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/seeds.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/assets/javascripts/anime.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/assets/javascripts/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/assets/javascripts/demo1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/assets/javascripts/easing.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/assets/javascripts/imagesloaded.pkgd.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/assets/javascripts/jquery-2.2.3.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/assets/javascripts/jquery.countup.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/assets/javascripts/jquery.waypoints.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/assets/javascripts/lightbox-plus-jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/assets/javascripts/move-top.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/assets/javascripts/uncover.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/assets/stylesheets/lightbox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/assets/stylesheets/set1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/assets/stylesheets/uncover.css" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
@@ -52,15 +37,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="days_controller.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/controllers/dumbbells/days_controller.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.html.haml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/catalog/index.html.haml">
           <provider selected="true" editor-type-id="text-editor">
@@ -79,25 +55,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html.haml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/dumbbells/programs/index.html.haml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="51" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="show.html.haml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/dumbbells/days/show.html.haml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file leaf-file-name="show.html.haml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/dumbbells/programs/show.html.haml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+            <state relative-caret-position="60">
+              <caret line="4" column="50" lean-forward="true" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -105,8 +67,26 @@
       <file leaf-file-name="seeds.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/db/seeds.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
-              <caret line="446" column="18" selection-start-line="446" selection-start-column="9" selection-end-line="446" selection-end-column="18" />
+            <state relative-caret-position="-972">
+              <caret line="729" column="4" selection-start-line="729" selection-start-column="4" selection-end-line="729" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -142,10 +122,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>Разгибания рук лежа</find>
-      <find>Планка</find>
-      <find>класс</find>
-      <find>Жим гантелей стоя</find>
       <find>разгибанием с гантелей в наклоне</find>
       <find>с гантелей в наклоне</find>
       <find>h3</find>
@@ -172,10 +148,12 @@
       <find>планка</find>
       <find>скручивания</find>
       <find>Велосипед</find>
+      <find>Выброс гантели</find>
+      <find>выпады</find>
+      <find>class Uncover</find>
+      <find>Махи гантелями перед собой</find>
     </findStrings>
     <replaceStrings>
-      <replace>zhim-gantelei</replace>
-      <replace>razgibanie-ruki-s-gantelei</replace>
       <replace>Mahi-gantelyami-pered-soboi</replace>
       <replace>molotok</replace>
       <replace>biceps-s-gantelyami-stoya</replace>
@@ -204,6 +182,8 @@
       <replace>planka</replace>
       <replace>skruchivaniya</replace>
       <replace>velosiped</replace>
+      <replace>vybros-ganteli</replace>
+      <replace>vypady</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -219,8 +199,6 @@
         <option value="$PROJECT_DIR$/app/assets/stylesheets/catalog.sass" />
         <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
         <option value="$PROJECT_DIR$/config/application.rb" />
-        <option value="$PROJECT_DIR$/app/assets/javascripts/application.js" />
-        <option value="$PROJECT_DIR$/app/assets/stylesheets/application.scss" />
         <option value="$PROJECT_DIR$/config/initializers/assets.rb" />
         <option value="$PROJECT_DIR$/app/controllers/catalog_controller.rb" />
         <option value="$PROJECT_DIR$/db/migrate/20200501171825_add_exercise_to_day.rb" />
@@ -251,11 +229,13 @@
         <option value="$PROJECT_DIR$/app/controllers/dumbbells/programs_controller.rb" />
         <option value="$PROJECT_DIR$/app/views/catalog/index.html.haml" />
         <option value="$PROJECT_DIR$/app/views/dumbbells/programs/index.html.haml" />
-        <option value="$PROJECT_DIR$/app/views/dumbbells/programs/show.html.haml" />
         <option value="$PROJECT_DIR$/app/views/gymnastic_rings/programs/show.html.haml" />
         <option value="$PROJECT_DIR$/vendor/assets/stylesheets/style.css" />
         <option value="$PROJECT_DIR$/config/database.yml" />
         <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/app/assets/javascripts/application.js" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/application.scss" />
+        <option value="$PROJECT_DIR$/app/views/dumbbells/programs/show.html.haml" />
         <option value="$PROJECT_DIR$/db/seeds.rb" />
       </list>
     </option>
@@ -286,6 +266,26 @@
               <item name="workout" type="b2602c69:ProjectViewProjectNode" />
               <item name="workout" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="workout" type="b2602c69:ProjectViewProjectNode" />
+              <item name="workout" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="workout" type="b2602c69:ProjectViewProjectNode" />
+              <item name="workout" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="javascripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="workout" type="b2602c69:ProjectViewProjectNode" />
+              <item name="workout" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="stylesheets" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="workout" type="b2602c69:ProjectViewProjectNode" />
@@ -371,6 +371,24 @@
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="views" type="462c0819:PsiDirectoryNode" />
               <item name="layouts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="workout" type="b2602c69:ProjectViewProjectNode" />
+              <item name="workout" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="workout" type="b2602c69:ProjectViewProjectNode" />
+              <item name="workout" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="workout" type="b2602c69:ProjectViewProjectNode" />
+              <item name="workout" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="stylesheets" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -522,12 +540,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588272988337</updated>
-      <workItem from="1588272989483" duration="79874000" />
+      <workItem from="1588272989483" duration="81169000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="79874000" />
+    <option name="totallyTimeSpent" value="81169000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -584,13 +602,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/config/environments/development.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="538">
-          <caret line="61" column="38" selection-start-line="61" selection-start-column="38" selection-end-line="61" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/boot.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -629,13 +640,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/initializers/assets.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -646,13 +650,6 @@
     <entry file="file://$PROJECT_DIR$/vendor/assets/stylesheets/set1.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-190" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
@@ -876,13 +873,6 @@
     <entry file="file://$PROJECT_DIR$/app/views/dumbbells/days/show.html.haml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/dumbbells/programs/show.html.haml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/gymnastic_rings/programs/show.html.haml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -918,10 +908,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/assets/javascripts/uncover.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-556">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/dumbbells/programs/show.html.haml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="50" lean-forward="true" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/db/seeds.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="446" column="18" selection-start-line="446" selection-start-column="9" selection-end-line="446" selection-end-column="18" />
+        <state relative-caret-position="-972">
+          <caret line="729" column="4" selection-start-line="729" selection-start-column="4" selection-end-line="729" selection-end-column="4" />
         </state>
       </provider>
     </entry>
