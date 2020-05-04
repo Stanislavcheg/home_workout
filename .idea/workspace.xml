@@ -2,60 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8493cc6a-bc4a-48f5-a74c-578b92d857ad" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/app/assets/images/Biceps-s-gantelei-s-uporom-v-bedro.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/Gorizontalnaya-tyaga-na-kolcah.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/chastichnye-podtyagivaniya-na-biceps-na-1-kolce.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/chastichnye-podtyagivaniya-obratnym-hvatom.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/chastichnye-podtyagivaniya-parallelnym-hvatom.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/chastichnye-podtyagivaniya-shirokim-hvatom.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/francuzkii-zhim-lezha-s-gantelyami.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/otzhimaniya-v-upore-na-kolcah.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/podbros-nog-k-korpusu.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/podtyagivaniya-na-biceps-na-1-kolce.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/podtyagivaniya-obratnym-hvatom.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/podtyagivaniya-parallelnym-hvatom.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/podtyagivaniya-shirokim-hvatom.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/prisedaniya-na-1-noge-s-kolcami.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/razgibanie-ruki-s-gantelei-iz-za-golovy.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/razvedenie-gantelei-lezha.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/razvedenie-gantelei-v-naklone.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/razvedenie-ruk-s-kolcami.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/tyaga-na-kolcah-na-zadnyuyu-deltu.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/images/zhim-gantelei-sidya.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/Mahi-gantelyami-pered-soboi.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/biceps-s-gantelyami-stoya.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/ikry.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/klassicheskie-otzhimaniya.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/mahi-nogami-v-storonu.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/mahi-nogoi-vverh.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/mahi-s-bintom.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/mertvaya-tyaga.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/molotok.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/obratnye-otzhimaniya.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/otzhimaniya-na-kolcah-kak-na-brusyah.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/otzhimaniya-ot-stulev.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/otzhimaniya-s-perenosom-centra-tyazhesti.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/planka.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/podem-taza.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/podtyagivaniya-obratnym-hvatom.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/podtyagivaniya.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/prisedaniya-s-gantelyami.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/raskladushka.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/razgibanie-ruki-s-gantelei.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/razgibaniya-ruk-lezha.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/razvedenie-gantelei-stoya.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/skruchivaniya.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/tyaga-gantelei-v-naklone.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/tyaga-ganteli-k-bedru.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/tyaga-na-biceps.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/tyaga-na-predpleche.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/uzkie-otzhimaniya.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/velosiped.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/vybros-ganteli.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/vypady.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/zhim-gantelei-lezha.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/videos/zhim-gantelei.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/seeds.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/seeds.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/b1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/b2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/b3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/stylesheets/breadcrumbs.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/stylesheets/catalog.sass" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/stylesheets/days.sass" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/stylesheets/gymnastic_rings.sass" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/stylesheets/gymnastic_rings/programs.sass" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/dumbbells/days/show.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/dumbbells/days/show.html.haml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/gymnastic_rings/days/show.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/gymnastic_rings/days/show.html.haml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/assets/stylesheets/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/style.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
@@ -99,11 +57,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="seeds.rb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="seeds.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/db/seeds.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="211">
               <caret line="380" column="95" selection-start-line="380" selection-start-column="95" selection-end-line="380" selection-end-column="95" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="common.sass" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/common.sass">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -126,29 +93,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="database.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/database.yml">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendor/assets/stylesheets/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+            <state relative-caret-position="525">
+              <caret line="183" column="29" lean-forward="true" selection-start-line="183" selection-start-column="29" selection-end-line="183" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="show.html.haml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/views/gymnastic_rings/days/show.html.haml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="show.html.haml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/gymnastic_rings/programs/show.html.haml">
+        <entry file="file://$PROJECT_DIR$/app/views/dumbbells/days/show.html.haml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="21" selection-start-line="7" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vendor/assets/stylesheets/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="469" selection-start-line="469" selection-end-line="469" />
+            <state relative-caret-position="360">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
@@ -157,7 +124,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>с гантелей в наклоне</find>
       <find>h3</find>
       <find>ser-inner-info</find>
       <find>Бицепс с гантелей, с упором в бедро</find>
@@ -186,6 +152,7 @@
       <find>выпады</find>
       <find>class Uncover</find>
       <find>Махи гантелями перед собой</find>
+      <find>b2</find>
       <find>Image.create(name: '</find>
     </findStrings>
     <replaceStrings>
@@ -231,7 +198,6 @@
         <option value="$PROJECT_DIR$/app/assets/stylesheets/catalog.scss" />
         <option value="$PROJECT_DIR$/config/environments/production.rb" />
         <option value="$PROJECT_DIR$/config/environments/development.rb" />
-        <option value="$PROJECT_DIR$/app/assets/stylesheets/catalog.sass" />
         <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
         <option value="$PROJECT_DIR$/config/application.rb" />
         <option value="$PROJECT_DIR$/config/initializers/assets.rb" />
@@ -259,19 +225,21 @@
         <option value="$PROJECT_DIR$/app/models/video.rb" />
         <option value="$PROJECT_DIR$/app/models/resource.rb" />
         <option value="$PROJECT_DIR$/app/controllers/gymnastic_rings/days_controller.rb" />
-        <option value="$PROJECT_DIR$/app/views/gymnastic_rings/days/show.html.haml" />
         <option value="$PROJECT_DIR$/app/controllers/dumbbells/days_controller.rb" />
         <option value="$PROJECT_DIR$/app/controllers/dumbbells/programs_controller.rb" />
         <option value="$PROJECT_DIR$/app/views/catalog/index.html.haml" />
         <option value="$PROJECT_DIR$/app/views/dumbbells/programs/index.html.haml" />
         <option value="$PROJECT_DIR$/app/views/gymnastic_rings/programs/show.html.haml" />
-        <option value="$PROJECT_DIR$/vendor/assets/stylesheets/style.css" />
         <option value="$PROJECT_DIR$/config/database.yml" />
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/application.js" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/application.scss" />
         <option value="$PROJECT_DIR$/app/views/dumbbells/programs/show.html.haml" />
         <option value="$PROJECT_DIR$/db/seeds.rb" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/catalog.sass" />
+        <option value="$PROJECT_DIR$/vendor/assets/stylesheets/style.css" />
+        <option value="$PROJECT_DIR$/app/views/gymnastic_rings/days/show.html.haml" />
+        <option value="$PROJECT_DIR$/app/views/dumbbells/days/show.html.haml" />
       </list>
     </option>
   </component>
@@ -575,12 +543,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588272988337</updated>
-      <workItem from="1588272989483" duration="82206000" />
+      <workItem from="1588272989483" duration="83459000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82206000" />
+    <option name="totallyTimeSpent" value="83459000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -637,27 +605,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/config/boot.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/catalog.sass">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="25" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vendor/assets/stylesheets/fontawesome-all.min.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -734,23 +681,6 @@
           <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/gymnastic_rings.sass">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="45" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/common.sass">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/breadcrumbs.scss">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.haml">
       <provider selected="true" editor-type-id="text-editor">
@@ -846,13 +776,6 @@
     <entry file="file://$PROJECT_DIR$/app/models/application_record.rb">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/gymnastic_rings/days/show.html.haml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/models/exercise.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -905,20 +828,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/dumbbells/days/show.html.haml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/gymnastic_rings/programs/show.html.haml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="21" selection-start-line="7" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/assets/stylesheets/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="469" selection-start-line="469" selection-end-line="469" />
         </state>
       </provider>
     </entry>
@@ -961,13 +874,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/dumbbells/programs/show.html.haml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -975,10 +881,64 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/gymnastic_rings/programs.sass">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/days.sass">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/gymnastic_rings.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/breadcrumbs.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/catalog.sass">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/db/seeds.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="211">
           <caret line="380" column="95" selection-start-line="380" selection-start-column="95" selection-end-line="380" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/common.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/assets/stylesheets/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="183" column="29" lean-forward="true" selection-start-line="183" selection-start-column="29" selection-end-line="183" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/dumbbells/days/show.html.haml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/gymnastic_rings/days/show.html.haml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>

@@ -19,5 +19,6 @@
             = image_tag(resource.name, class: 'img-fluid')
           - else
             .embed-responsive.embed-responsive-16by9
-              = video_tag(resource.name, controls: true)
-s
+              %video.embed-responsive-item{controls: ''}
+                %source{src: resource.name, type: 'video/mp4'}
+
