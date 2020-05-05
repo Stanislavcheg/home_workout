@@ -1,16 +1,4 @@
-module GymnasticRings
-  class ProgramsController < ApplicationController
-    add_breadcrumb '<i class="fa">&#xf015</i>'.html_safe, :root_path
-    add_breadcrumb 'С кольцами', :gymnastic_rings_programs_path
-
-    def index
-      @programs = GymnasticRingsProgram.all
-    end
-
-    def show
-      @program = GymnasticRingsProgram.find(params[:id])
-      @days = @program.days
-      add_breadcrumb @program.name, :gymnastic_rings_program_path
-    end
-  end
+class GymnasticRings::ProgramsController < ProgramsController
+  add_breadcrumb 'С кольцами', :gymnastic_rings_programs_path
 end
+

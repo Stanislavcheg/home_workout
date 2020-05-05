@@ -518,7 +518,7 @@ Image.create(name: 'https://home-workout-assets.s3.eu-central-1.amazonaws.com/im
 Image.create(name: 'https://home-workout-assets.s3.eu-central-1.amazonaws.com/images/chastichnye-podtyagivaniya-obratnym-hvatom.gif', exercise_id: e.id)
 
 e = Exercise.create(
-  name:'tyaga-na-predpleche',
+  name:'Тяга на предплечье',
   desc: '3 подхода по 10 раз',
   day_id: d.id
 )
