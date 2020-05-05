@@ -3,12 +3,16 @@ class ProgramsController < ApplicationController
 
   def index
     @programs = program_class.all
+
+    render 'programs/index'
   end
 
   def show
     @program = program_class.find(params[:id])
     @days = @program.days
     add_breadcrumb @program.name, program_path(@program.id)
+
+    render 'programs/show'
   end
 end
 

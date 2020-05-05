@@ -4,7 +4,7 @@
       - @programs.each do |program|
         .col-lg-4.col-sm-12.text-center.gap-1
           .white-shadow
-            = link_to inline_svg_tag('sports.svg'), gymnastic_rings_program_path(program.id)
+            = link_to inline_svg_tag(program.icon), program_path(program.id)
             .ser-inner-info
               %h3
                 = program.name

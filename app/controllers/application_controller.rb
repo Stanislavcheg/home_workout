@@ -1,10 +1,12 @@
 class ApplicationController < ActionController::Base
+  helper_method :program_path, :program_day_path
+
   def program_class_name
-    @@program_class_name ||= controller_path.classify.split('::')[0] + 'Program'
+    controller_path.classify.split('::')[0] + 'Program'
   end
 
   def program_class
-    @@program_class ||= program_class_name.constantize
+    program_class_name.constantize
   end
 
   def program_path(program_id)

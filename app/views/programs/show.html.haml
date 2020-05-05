@@ -4,7 +4,7 @@
       - @days.each do |day|
         .col-lg-4.col-sm-12.text-center.gap-1.mb-4
           .white-shadow
-            = link_to inline_svg_tag('calendar.svg'), self_weight_program_day_path(program_id: @program.id, id: day.id)
+            = link_to inline_svg_tag('calendar.svg'), program_day_path(@program.id, day.id)
             .ser-inner-info
               %h4
                 = day.name
