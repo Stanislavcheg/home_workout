@@ -2,9 +2,10 @@
   .container.py-lg-5.py-md-4.py-sm-4.py-3
     .row.agile-service-grid.pt-lg-4.pt-md-4.pt-3
       - @days.each do |day|
-        .col-lg-4.col-sm-12.text-center.gap-1.mb-4
-          .white-shadow
-            = link_to inline_svg_tag('calendar.svg'), program_day_path(@program.id, day.id)
-            .ser-inner-info
-              %h4
-                = day.name
+        .button.col-lg-4.col-sm-12.text-center.gap-1.mb-4
+          = link_to program_day_path(@program.id, day.id) do
+            .white-shadow
+              = inline_svg_tag('calendar.svg')
+              .ser-inner-info
+                %h4
+                  = day.name

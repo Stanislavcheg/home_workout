@@ -1,22 +1,19 @@
-.container.py-lg-5.py-md-4.py-sm-4.py-3
-  .row.agile-service-grid.pt-lg-4.pt-md-4.pt-3
-  .col-sm-12
-    .row.justify-content-center
-      %h3
-        = @day.name
+.row.justify-content-center
+  .col-md-8
+    %h2.card-title
+      = @day.name
     - @exercises.each do |exercise|
-      .row
-        %h4
-          = exercise.name
-      .row
-        %p
-          = exercise.desc
-      - exercise.resources.each_with_index do |resource, i|
-        .row.mb-3
-          - if resource.image?
-            = image_tag(resource.name, class: 'img-fluid')
-          - else
-            .embed-responsive.embed-responsive-16by9
-              %video.embed-responsive-item{controls: ''}
-                %source{src: resource.name, type: 'video/mp4'}
-
+      .card.mb-4
+        - exercise.resources.each do |resource|
+          .mb-4
+            - if resource.image?
+              = image_tag(resource.name, class: 'img-fluid card-img-top')
+            - else
+              .embed-responsive.embed-responsive-16by9.card-img-top
+                %video.embed-responsive-item{controls: ''}
+                  %source{src: resource.name, type: 'video/mp4'}
+        .card-body
+          %h2.card-title
+            = exercise.name
+          %p.card-text
+            = exercise.desc

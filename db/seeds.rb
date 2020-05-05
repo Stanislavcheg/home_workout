@@ -578,6 +578,7 @@ e = Exercise.create(
   desc: '2 подхода с собственным весом, по 15-20 повторений (выполняются исключительно для разминки перед приседаниями на 1 ноге',
   day_id: d.id
 )
+Video.create(name: 'https://home-workout-assets.s3.eu-central-1.amazonaws.com/videos/prisedaniya-s-gantelyami.mp4', exercise_id: e.id)
 
 e = Exercise.create(
   name:'Приседания на 1 ноге с кольцами',
