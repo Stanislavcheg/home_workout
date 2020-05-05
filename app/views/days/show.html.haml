@@ -1,7 +1,5 @@
 .row.justify-content-center
-  .col-md-8
-    %h2.card-title
-      = @day.name
+  .col-xs-12.col-md-8
     - @exercises.each do |exercise|
       .card.mb-4
         - exercise.resources.each do |resource|
@@ -10,7 +8,7 @@
               = image_tag(resource.name, class: 'img-fluid card-img-top')
             - else
               .embed-responsive.embed-responsive-16by9.card-img-top
-                %video.embed-responsive-item{controls: ''}
+                %video.embed-responsive-item{controls: '', preload: 'auto'}
                   %source{src: resource.name, type: 'video/mp4'}
         .card-body
           %h2.card-title
