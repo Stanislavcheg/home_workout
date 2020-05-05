@@ -1,5 +1,4 @@
-# С гантелями
-# Программа 1
+# С гантелями Программа 1
 p = DumbbellProgram.create(name: 'Программа 1')
 # День 1
 d = Day.create(name: 'День 1. Ноги.', program_id: p.id)
@@ -163,7 +162,7 @@ e = Exercise.create(
 )
 Video.create(name: 'https://home-workout-assets.s3.eu-central-1.amazonaws.com/videos/ikry.mp4', exercise_id: e.id)
 
-# Программа 2
+# С гантелями Программа 2
 p = DumbbellProgram.create(name: 'Программа 2')
 # День 1
 d = Day.create(name: 'День 1. Ноги.', program_id: p.id)
@@ -297,7 +296,7 @@ e = Exercise.create(
 )
 Video.create(name: 'https://home-workout-assets.s3.eu-central-1.amazonaws.com/videos/planka.mp4', exercise_id: e.id)
 
-# Программа 3
+# С гантелями Программа 3
 p = DumbbellProgram.create(name: 'Программа 3')
 # День 1
 d = Day.create(name: 'День 1. Ноги.', program_id: p.id)
@@ -417,8 +416,7 @@ e = Exercise.create(
 )
 Video.create(name: 'https://home-workout-assets.s3.eu-central-1.amazonaws.com/videos/planka.mp4', exercise_id: e.id)
 
-# С кольцами
-# Программа 1
+# С кольцами Программа 1
 p = RingsProgram.create(name: 'Программа 1')
 # День 1
 d = Day.create(name: 'День 1. Ноги.', program_id: p.id)
@@ -534,7 +532,7 @@ e = Exercise.create(
 Video.create(name: 'https://home-workout-assets.s3.eu-central-1.amazonaws.com/videos/planka.mp4', exercise_id: e.id)
 
 # День 4
-d = Day.create(name: 'День 4. Плечи, икроножные мышцы, комплекс.', program_id: p.id)
+d = Day.create(name: 'День 4. Плечи, икроножные мышцы.', program_id: p.id)
 e = Exercise.create(
   name: 'Выброс гантели вверх',
   desc: '4 подхода по 15-20 (это комплексное упражнение, которое задействует, в большей части, ноги, а так же поясничные и плечевые мышцы. Слово «гантеля» здесь указана символически. В архиве с упражнениями с собственным весом, вы найдете его технику. Там я показываю как выполнять выброс с гантелей. Но, это одно из тех упражнений, которое можно легко заменить гирей или даже большой бутылкой воды (на 5-10 л.). Как правило, для новичка этой нагрузки более чем достаточно).',
@@ -571,7 +569,7 @@ e = Exercise.create(
 )
 Image.create(name: 'https://home-workout-assets.s3.eu-central-1.amazonaws.com/images/podbros-nog-k-korpusu.gif', exercise_id: e.id)
 
-# Программа 2
+# С кольцами Программа 2
 p = RingsProgram.create(name: 'Программа 2')
 # День 1
 d = Day.create(name: 'День 1. Ноги.', program_id: p.id)
@@ -723,7 +721,7 @@ e = Exercise.create(
 )
 Video.create(name: 'https://home-workout-assets.s3.eu-central-1.amazonaws.com/videos/planka.mp4', exercise_id: e.id)
 
-# Программа 3
+# С кольцами Программа 3
 p = RingsProgram.create(name: 'Программа 3')
 # День 1
 d = Day.create(name: 'День 1. Ноги.', program_id: p.id)
@@ -844,6 +842,243 @@ e = Exercise.create(
 )
 Video.create(name: 'https://home-workout-assets.s3.eu-central-1.amazonaws.com/videos/planka.mp4', exercise_id: e.id)
 
+# С собственным весом Программа 1
+p = BodyProgram.create(name: 'Программа 1')
+# День 1
+d = Day.create(name: 'День 1. Ноги.', program_id: p.id)
+e = Exercise.create(
+  name:'Приседания с собственным весом',
+  desc: '4 подхода на максимум (15). (Это значит, что мы делаем 4 подхода, сколько сможем в каждом. В идеале- использовать отягощение, например в виде рюкзака. В скобках вы видите цифру «15». Это значит, что нагрузку желательно подобрать такую, чтобы на 15-20 повторении у вас уже не было сил приседать дальше. Это достигается с помощью рюкзака с дополнительным отягощением, либо с помощью аналогичных предметов. Цифру в скобках мы будем использовать и далее. Значить это будет то же самое: стараемся подобрать нагрузку на счет рюкзака или дополнительных отягощений таким образом, чтобы отказ наступал примерно на этой цифре повторений. Если отягощения не хватает или нет рюкзака или других «предметов»- выполняем упражнение НА МАКСИМУМ. Если отягощение не значительное, но оно позволяет сократить количество повторений, скажем до 25- мы так же его используем и делаем на МАКСИМУМ, но только с ним (это лучше чем сделать 50 раз без него)).',
+  day_id: d.id
+)
+Video.create(name: 'https://home-workout-assets.s3.eu-central-1.amazonaws.com/videos/prisedaniya-s-gantelyami.mp4', exercise_id: e.id)
 
+e = Exercise.create(
+  name:'Выпады с гантелями (любой вариант)',
+  desc: '3 на максимум на каждую ногу (15). (По 15 на каждую- если есть возможность утяжелить упражнение. Хотя, возможно, вам хватит и своего веса).',
+  day_id: d.id
+)
+Video.create(name: 'https://home-workout-assets.s3.eu-central-1.amazonaws.com/videos/vypady.mp4', exercise_id: e.id)
 
+e = Exercise.create(
+  name: 'Подъем таза',
+  desc: '4 на максимум (по 15-20). В таких упражнениях груз (рюкзак) кладется на живот.',
+  day_id: d.id
+)
+Video.create(name: 'https://home-workout-assets.s3.eu-central-1.amazonaws.com/videos/podem-taza.mp4', exercise_id: e.id)
 
+e = Exercise.create(
+  name: 'Велосипед',
+  desc: '3 подхода по 10-15 раз',
+  day_id: d.id
+)
+Video.create(name: 'https://home-workout-assets.s3.eu-central-1.amazonaws.com/videos/velosiped.mp4', exercise_id: e.id)
+
+# День 2
+d = Day.create(name: 'День 2. Грудь, трицепс.', program_id: p.id)
+e = Exercise.create(
+  name:'Классические отжимания',
+  desc: '4 подхода на максимум (15)',
+  day_id: d.id
+)
+Video.create(name: 'https://home-workout-assets.s3.eu-central-1.amazonaws.com/videos/klassicheskie-otzhimaniya.mp4', exercise_id: e.id)
+
+e = Exercise.create(
+  name:'Отжимания с переносом центра тяжести',
+  desc: '3 подхода на максимум (15)',
+  day_id: d.id
+)
+Video.create(name: 'https://home-workout-assets.s3.eu-central-1.amazonaws.com/videos/otzhimaniya-s-perenosom-centra-tyazhesti.mp4', exercise_id: e.id)
+
+e = Exercise.create(
+  name:'Обратные отжимания (на трицепс)',
+  desc: '3 подхода на максимум (на 15-20, если позволяет груз. В этом упражнении груз кладется на бедра).',
+  day_id: d.id
+)
+Video.create(name: 'https://home-workout-assets.s3.eu-central-1.amazonaws.com/videos/obratnye-otzhimaniya.mp4', exercise_id: e.id)
+
+e = Exercise.create(
+  name: 'Трицепс на тросах',
+  desc: ' 3 подхода по 15 раз (при выполнении упражнений на тросах, особенно бицепса и трицепса, можно опуститься к земле на столько близко, чтобы отказ наступал именно в диапазоне того количества повторений, которое указано).',
+  day_id: d.id
+)
+Video.create(name: 'https://home-workout-assets.s3.eu-central-1.amazonaws.com/videos/triceps-na-trosah.mp4', exercise_id: e.id)
+
+e = Exercise.create(
+  name:'Скручивания',
+  desc: '4 подхода на максимум',
+  day_id: d.id
+)
+Video.create(name: 'https://home-workout-assets.s3.eu-central-1.amazonaws.com/videos/skruchivaniya.mp4', exercise_id: e.id)
+
+# День 3
+d = Day.create(name: 'День 3. Спина, бицепс.', program_id: p.id)
+e = Exercise.create(
+  name: 'Подтягивания',
+  desc: '4 подхода по 15 раз(для тренировок с собственным весом, турник- это снаряд номер 1!!! По этому, если его у вас нет- лучше его купить. Можете заказать в Китае, на Али експресс, там будет дешевле. Если турника нет- мы пропускаем это упражнение, но следующее- делаем в 2 раза больше(в 2 раза больше подходов). Если вы не умеете подтягиваться- приобретите специальную резину для подтягиваний)',
+  day_id: d.id
+)
+Video.create(name: 'https://home-workout-assets.s3.eu-central-1.amazonaws.com/videos/podtyagivaniya.mp4', exercise_id: e.id)
+
+e = Exercise.create(
+  name:'Тяга на тросах',
+  desc: '3 подхода по 15-20 (как обычно, регулируем нагрузку так, чтобы на последних повторениях был отказ (опускаемся ближе к полу- нагрузка повышается. Встаем- сокращается). Как я говорил выше, если у вас нет турника- подтягивания мы пропускаем, но данное упражнение выполняем не в 3 подходах, а в 6-8, то есть примерно в 2 раза больше).',
+  day_id: d.id
+)
+Video.create(name: 'https://home-workout-assets.s3.eu-central-1.amazonaws.com/videos/tyaga-na-spinu.mp4', exercise_id: e.id)
+
+e = Exercise.create(
+  name: 'Бицепс на тросах',
+  desc: '3 подхода по 15 раз',
+  day_id: d.id
+)
+Video.create(name: 'https://home-workout-assets.s3.eu-central-1.amazonaws.com/videos/tyaga-na-biceps-na-trosah.mp4', exercise_id: e.id)
+
+e = Exercise.create(
+  name:'Предплечье на тросах',
+  desc: '3 подхода по 15 раз',
+  day_id: d.id
+)
+Video.create(name: 'https://home-workout-assets.s3.eu-central-1.amazonaws.com/videos/tyaga-na-predpleche-na-trosah.mp4', exercise_id: e.id)
+
+e = Exercise.create(
+  name:'Планка (классический вариант)',
+  desc: '4 подхода на максимум (каждый подход стоим сколько сможем)',
+  day_id: d.id
+)
+Video.create(name: 'https://home-workout-assets.s3.eu-central-1.amazonaws.com/videos/planka.mp4', exercise_id: e.id)
+
+# День 4
+d = Day.create(name: 'День 4. Плечи, икроножные мышцы.', program_id: p.id)
+e = Exercise.create(
+  name: 'Выброс гантели вверх',
+  desc: '4 подхода по 15-20 (это комплексное упражнение, которое задействует, в большей части, ноги, а так же поясничные и плечевые мышцы. Слово «гантеля» здесь указана символически. В архиве с упражнениями с собственным весом, вы найдете его технику. Там я показываю как выполнять выброс с гантелей. Но, это одно из тех упражнений, которое можно легко заменить гирей или даже большой бутылкой воды (на 5-10 л.). Как правило, для новичка этой нагрузки более чем достаточно).',
+  day_id: d.id
+)
+Video.create(name: 'https://home-workout-assets.s3.eu-central-1.amazonaws.com/videos/vybros-ganteli.mp4', exercise_id: e.id)
+
+e = Exercise.create(
+  name:'Махи в стороны с бинтом Мартенса/гантелями',
+  desc: '6 подхода по 15 (подбираем количество слоев под заданное количество повтрений).',
+  day_id: d.id
+)
+Video.create(name: 'https://home-workout-assets.s3.eu-central-1.amazonaws.com/videos/mahi-s-bintom.mp4', exercise_id: e.id)
+
+e = Exercise.create(
+  name: 'Тяга на заднюю дельту на тросах',
+  desc: '4 подхода по 15 раз',
+  day_id: d.id
+)
+Image.create(name: 'https://home-workout-assets.s3.eu-central-1.amazonaws.com/images/tyaga-na-trosah-na-zadnij-puchok.gif', exercise_id: e.id)
+
+e = Exercise.create(
+  name: 'Подъем на носки стоя (икроножные мышцы)',
+  desc: '4 подхода по 15-20 раз',
+  day_id: d.id
+)
+Video.create(name: 'https://home-workout-assets.s3.eu-central-1.amazonaws.com/videos/ikry.mp4', exercise_id: e.id)
+
+# С собственным весом Программа 2
+p = BodyProgram.create(name: 'Программа 2')
+# День 1
+d = Day.create(name: 'День 1. Ноги.', program_id: p.id)
+e = Exercise.create(
+  name:'Приседания с собственным весом (или с рюкзаком) суперсетом с выпадами',
+  desc: 'поочередно, назад (делаете шаг назад одной ногой, затем сразу другой, затем снова- первой, и снова второй (техника в видео)). Делаем 2-3 подхода по 8-10 повторений в каждом упражнении (или на максимум, если нет возможности увеличить нагрузку). Правила разминки и подбора рабочего веса- как и в предыдущей программе (они общие). То есть, Мы выполняем приседания на 8-10 повторений, до отказа, затем сразу, без отдыха, делаем по 8-10 выпадов на каждую ногу. Либо, делаем с собственным весом, на максимум в каждом упражнении. Если кратко, то суперсет- это выполнение 2 упражнений подряд, без отдыха.',
+  day_id: d.id
+)
+Video.create(name: 'https://home-workout-assets.s3.eu-central-1.amazonaws.com/videos/prisedaniya-s-gantelyami.mp4', exercise_id: e.id)
+Video.create(name: 'https://home-workout-assets.s3.eu-central-1.amazonaws.com/videos/vypady.mp4', exercise_id: e.id)
+
+e = Exercise.create(
+  name:'Махи ногами вверх суперсетом с махами ногами в стороны',
+  desc: '3 подхода, на максимум в каждом. Считается, что это женские упражнения. На самом деле, это не так, и они отлично прорабатывают те участки ног и ягодичных мышц, которые мало доступны в базовых упражнениях.',
+  day_id: d.id
+)
+Video.create(name: 'https://home-workout-assets.s3.eu-central-1.amazonaws.com/videos/mahi-nogoi-vverh.mp4', exercise_id: e.id)
+Video.create(name: 'https://home-workout-assets.s3.eu-central-1.amazonaws.com/videos/mahi-nogami-v-storonu.mp4', exercise_id: e.id)
+
+e = Exercise.create(
+  name: 'Подъем таза',
+  desc: '3 подхода на максимум (15) (как и раньше, на бедра можно класть утяжелитесь для увеличения нагрузки)',
+  day_id: d.id
+)
+Video.create(name: 'https://home-workout-assets.s3.eu-central-1.amazonaws.com/videos/podem-taza.mp4', exercise_id: e.id)
+
+e = Exercise.create(
+  name: 'Подъем на носки стоя (икроножные мышцы)',
+  desc: '4 подхода по 15-20 раз',
+  day_id: d.id
+)
+Video.create(name: 'https://home-workout-assets.s3.eu-central-1.amazonaws.com/videos/ikry.mp4', exercise_id: e.id)
+
+e = Exercise.create(
+  name: 'Велосипед',
+  desc: '4 подхода на максимум (максимум- это значит, что вы делаете в каждом подходе столько повторений, сколько сможете. В данном случае- это время вращения воображаемых педалей). В видео описаны 2 вида выполнения велосипеда. На этом этапе уже пробуем использовать более сложный вариант «велосипеда».',
+  day_id: d.id
+)
+Video.create(name: 'https://home-workout-assets.s3.eu-central-1.amazonaws.com/videos/velosiped.mp4', exercise_id: e.id)
+
+# День 2
+d = Day.create(name: 'День 2. Грудь, плечи.', program_id: p.id)
+e = Exercise.create(
+  name:'Отжимания от стульев суперсетом с классическими отжиманиями',
+  desc: '3 на максимум в каждом (по 15 в каждом- если можете увеличить нагрузку)',
+  day_id: d.id
+)
+Video.create(name: 'https://home-workout-assets.s3.eu-central-1.amazonaws.com/videos/otzhimaniya-ot-stulev.mp4', exercise_id: e.id)
+Video.create(name: 'https://home-workout-assets.s3.eu-central-1.amazonaws.com/videos/klassicheskie-otzhimaniya.mp4', exercise_id: e.id)
+
+e = Exercise.create(
+  name:'Отжимания с переносом центра тяжести',
+  desc: '3-4 подхода на максимум (по 10-15 на каждую руку)',
+  day_id: d.id
+)
+Video.create(name: 'https://home-workout-assets.s3.eu-central-1.amazonaws.com/videos/otzhimaniya-s-perenosom-centra-tyazhesti.mp4', exercise_id: e.id)
+
+e = Exercise.create(
+  name: 'Тяга на заднюю дельту на тросах суперсетом с махами в стороны с бинтом Мартенса',
+  desc: '6 подходов по 10-15 повторений в каждом упражнении.',
+  day_id: d.id
+)
+Image.create(name: 'https://home-workout-assets.s3.eu-central-1.amazonaws.com/images/tyaga-na-trosah-na-zadnij-puchok.gif', exercise_id: e.id)
+Video.create(name: 'https://home-workout-assets.s3.eu-central-1.amazonaws.com/videos/mahi-s-bintom.mp4', exercise_id: e.id)
+
+e = Exercise.create(
+  name:'Скручивания',
+  desc: '5 подхода на максимум',
+  day_id: d.id
+)
+Video.create(name: 'https://home-workout-assets.s3.eu-central-1.amazonaws.com/videos/skruchivaniya.mp4', exercise_id: e.id)
+
+# День 3
+d = Day.create(name: 'День 3. Спина, бицепс, трицепс.', program_id: p.id)
+e = Exercise.create(
+  name: 'Подтягивания суперсетом с тягой на тросах (просто супер БОМБОВЫЙ суперсет)',
+  desc: '3 подхода по 8-10 в каждом упражнении. В тяге на тросах- можно на максимум. Если турника нет- это крайне плохо и фактически, для тренировки спины мы можем использовать только тягу на тросах (подтягивания пропускаем).',
+  day_id: d.id
+)
+Video.create(name: 'https://home-workout-assets.s3.eu-central-1.amazonaws.com/videos/podtyagivaniya.mp4', exercise_id: e.id)
+Video.create(name: 'https://home-workout-assets.s3.eu-central-1.amazonaws.com/videos/tyaga-na-spinu.mp4', exercise_id: e.id)
+
+e = Exercise.create(
+  name:'Тяга на тросах (уже выполняем отдельно)',
+  desc: '3 на максимум (если не делали подтягивания- делаем 6-8 подходов тяги на тросах).',
+  day_id: d.id
+)
+Video.create(name: 'https://home-workout-assets.s3.eu-central-1.amazonaws.com/videos/tyaga-na-spinu.mp4', exercise_id: e.id)
+
+e = Exercise.create(
+  name: 'Бицепс на тросах суперсетом с разгибанием рук лежа',
+  desc: '5 подходов на 10 повторений в каждом (в разгибании рук можно на максимум, если нет дополнительного отягощения).',
+  day_id: d.id
+)
+Video.create(name: 'https://home-workout-assets.s3.eu-central-1.amazonaws.com/videos/tyaga-na-biceps-na-trosah.mp4', exercise_id: e.id)
+Video.create(name: 'https://home-workout-assets.s3.eu-central-1.amazonaws.com/videos/razgibaniya-ruk-lezha.mp4', exercise_id: e.id)
+
+e = Exercise.create(
+  name:'Планка (классический вариант)',
+  desc: '4 подхода на максимум (каждый подход стоим сколько сможем)',
+  day_id: d.id
+)
+Video.create(name: 'https://home-workout-assets.s3.eu-central-1.amazonaws.com/videos/planka.mp4', exercise_id: e.id)
