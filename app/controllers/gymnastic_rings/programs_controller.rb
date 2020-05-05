@@ -4,11 +4,11 @@ module GymnasticRings
     add_breadcrumb 'С кольцами', :gymnastic_rings_programs_path
 
     def index
-      @programs = RingsProgram.all
+      @programs = GymnasticRingsProgram.all
     end
 
     def show
-      @program = RingsProgram.find(params[:id])
+      @program = GymnasticRingsProgram.find(params[:id])
       @days = @program.days
       add_breadcrumb @program.name, :gymnastic_rings_program_path
     end

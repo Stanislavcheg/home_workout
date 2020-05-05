@@ -1,2 +1,0 @@
-class RingsProgram < Program
-end

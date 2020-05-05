@@ -1,5 +1,5 @@
 # С гантелями Программа 1
-p = DumbbellProgram.create(name: 'Программа 1')
+p = DumbbellsProgram.create(name: 'Программа 1')
 # День 1
 d = Day.create(name: 'День 1. Ноги.', program_id: p.id)
 e = Exercise.create(
@@ -163,7 +163,7 @@ e = Exercise.create(
 Video.create(name: 'https://home-workout-assets.s3.eu-central-1.amazonaws.com/videos/ikry.mp4', exercise_id: e.id)
 
 # С гантелями Программа 2
-p = DumbbellProgram.create(name: 'Программа 2')
+p = DumbbellsProgram.create(name: 'Программа 2')
 # День 1
 d = Day.create(name: 'День 1. Ноги.', program_id: p.id)
 e = Exercise.create(
@@ -297,7 +297,7 @@ e = Exercise.create(
 Video.create(name: 'https://home-workout-assets.s3.eu-central-1.amazonaws.com/videos/planka.mp4', exercise_id: e.id)
 
 # С гантелями Программа 3
-p = DumbbellProgram.create(name: 'Программа 3')
+p = DumbbellsProgram.create(name: 'Программа 3')
 # День 1
 d = Day.create(name: 'День 1. Ноги.', program_id: p.id)
 e = Exercise.create(
@@ -417,7 +417,7 @@ e = Exercise.create(
 Video.create(name: 'https://home-workout-assets.s3.eu-central-1.amazonaws.com/videos/planka.mp4', exercise_id: e.id)
 
 # С кольцами Программа 1
-p = RingsProgram.create(name: 'Программа 1')
+p = GymnasticRingsProgram.create(name: 'Программа 1')
 # День 1
 d = Day.create(name: 'День 1. Ноги.', program_id: p.id)
 e = Exercise.create(
@@ -570,7 +570,7 @@ e = Exercise.create(
 Image.create(name: 'https://home-workout-assets.s3.eu-central-1.amazonaws.com/images/podbros-nog-k-korpusu.gif', exercise_id: e.id)
 
 # С кольцами Программа 2
-p = RingsProgram.create(name: 'Программа 2')
+p = GymnasticRingsProgram.create(name: 'Программа 2')
 # День 1
 d = Day.create(name: 'День 1. Ноги.', program_id: p.id)
 e = Exercise.create(
@@ -722,7 +722,7 @@ e = Exercise.create(
 Video.create(name: 'https://home-workout-assets.s3.eu-central-1.amazonaws.com/videos/planka.mp4', exercise_id: e.id)
 
 # С кольцами Программа 3
-p = RingsProgram.create(name: 'Программа 3')
+p = GymnasticRingsProgram.create(name: 'Программа 3')
 # День 1
 d = Day.create(name: 'День 1. Ноги.', program_id: p.id)
 e = Exercise.create(
@@ -843,7 +843,7 @@ e = Exercise.create(
 Video.create(name: 'https://home-workout-assets.s3.eu-central-1.amazonaws.com/videos/planka.mp4', exercise_id: e.id)
 
 # С собственным весом Программа 1
-p = BodyProgram.create(name: 'Программа 1')
+p = SelfWeightProgram.create(name: 'Программа 1')
 # День 1
 d = Day.create(name: 'День 1. Ноги.', program_id: p.id)
 e = Exercise.create(
@@ -979,7 +979,7 @@ e = Exercise.create(
 Video.create(name: 'https://home-workout-assets.s3.eu-central-1.amazonaws.com/videos/ikry.mp4', exercise_id: e.id)
 
 # С собственным весом Программа 2
-p = BodyProgram.create(name: 'Программа 2')
+p = SelfWeightProgram.create(name: 'Программа 2')
 # День 1
 d = Day.create(name: 'День 1. Ноги.', program_id: p.id)
 e = Exercise.create(

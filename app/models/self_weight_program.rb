@@ -1,0 +1,2 @@
+class SelfWeightProgram < Program
+end

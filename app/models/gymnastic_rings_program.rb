@@ -1,0 +1,2 @@
+class GymnasticRingsProgram < Program
+end

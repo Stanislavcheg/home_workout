@@ -1,2 +1,0 @@
-class BodyProgram < Program
-end

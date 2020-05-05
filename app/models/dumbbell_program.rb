@@ -1,2 +1,0 @@
-class DumbbellProgram < Program
-end

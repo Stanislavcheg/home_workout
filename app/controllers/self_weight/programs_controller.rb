@@ -4,11 +4,11 @@ module SelfWeight
     add_breadcrumb 'С собственным весом', :self_weight_programs_path
 
     def index
-      @programs = BodyProgram.all
+      @programs = SelfWeightProgram.all
     end
 
     def show
-      @program = BodyProgram.find(params[:id])
+      @program = SelfWeightProgram.find(params[:id])
       @days = @program.days
       add_breadcrumb @program.name, :self_weight_program_path
     end
