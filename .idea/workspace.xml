@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8493cc6a-bc4a-48f5-a74c-578b92d857ad" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/app/controllers/self_weight/days_controller.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/controllers/self_weight/programs_controller.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/self_weight/days/show.html.haml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/self_weight/programs/index.html.haml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/self_weight/programs/show.html.haml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/catalog/index.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/catalog/index.html.haml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/gymnastic_rings/days/show.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/gymnastic_rings/days/show.html.haml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/gymnastic_rings/programs/show.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/gymnastic_rings/programs/show.html.haml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/seeds.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/seeds.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/self_weight/programs/index.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/self_weight/programs/index.html.haml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
@@ -55,7 +46,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="programs_controller.rb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="programs_controller.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/self_weight/programs_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
@@ -69,11 +60,11 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="index.html.haml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html.haml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/self_weight/programs/index.html.haml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="6" column="71" selection-start-line="6" selection-start-column="71" selection-end-line="6" selection-end-column="71" />
+              <caret line="6" column="45" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -235,9 +226,9 @@
         <option value="$PROJECT_DIR$/app/views/gymnastic_rings/programs/show.html.haml" />
         <option value="$PROJECT_DIR$/app/views/catalog/index.html.haml" />
         <option value="$PROJECT_DIR$/app/controllers/self_weight/days_controller.rb" />
-        <option value="$PROJECT_DIR$/app/views/self_weight/programs/index.html.haml" />
         <option value="$PROJECT_DIR$/app/views/self_weight/programs/show.html.haml" />
         <option value="$PROJECT_DIR$/app/controllers/self_weight/programs_controller.rb" />
+        <option value="$PROJECT_DIR$/app/views/self_weight/programs/index.html.haml" />
       </list>
     </option>
   </component>
@@ -274,6 +265,13 @@
               <item name="workout" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="workout" type="b2602c69:ProjectViewProjectNode" />
+              <item name="workout" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="workout" type="b2602c69:ProjectViewProjectNode" />
@@ -579,12 +577,12 @@
       <option name="presentableId" value="Default" />
       <updated>1588272988337</updated>
       <workItem from="1588272989483" duration="83929000" />
-      <workItem from="1588613433196" duration="6017000" />
+      <workItem from="1588613433196" duration="6284000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="90238000" />
+    <option name="totallyTimeSpent" value="90505000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -927,13 +925,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/self_weight/programs/index.html.haml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="71" selection-start-line="6" selection-start-column="71" selection-end-line="6" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/self_weight/programs/show.html.haml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -955,6 +946,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="39" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/self_weight/programs/index.html.haml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="45" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
         </state>
       </provider>
     </entry>
